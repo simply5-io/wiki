@@ -33,17 +33,11 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Github',
-              href: 'https://github.com/simply5-io/wiki/discussions',
-            },
-          ],
-        },
-      ],
+      logo: {
+        alt: 'Simply5',
+        src: 'img/logo-dark.svg',
+        href: 'https://simply5.io',
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Simply5 CloudLAN.`,
     },
   },
