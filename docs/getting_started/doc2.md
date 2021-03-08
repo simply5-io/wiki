@@ -16,4 +16,4 @@ We provide simplified and seamless
 
 ### Apps updated to v1.0.7
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
+<!-- This is a link to [another document.](/docs/getting_started/doc3.md) This is a link to an [external page.](http://www.example.com/) -->
