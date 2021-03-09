@@ -7,7 +7,10 @@ slug: openvpn_clients
 
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 Make sure your resources meets prerequistes.
+
 ### Prerequisites
 
 - You are the admin of the room
@@ -17,9 +20,10 @@ Make sure your resources meets prerequistes.
 
 ### Instructions
 
-The below Quick GIF demonstrates how to Connect any device that support OpenVPN Client and **Service casting** from servers without exposing its actual IP address using CloudLAN. 
+The below Quick GIF demonstrates how to Connect any device that support OpenVPN Client and **Service casting** from servers without exposing its actual IP address using CloudLAN.
+
 <div className = "iframe_container">
-  <iframe className ="responsive-iframe" src="assets/videos/Download_ovpn_config.mp4" title="Download OpenVPN Config File" ></iframe>
+  <video className="responsive-iframe" src={useBaseUrl("videos/Download_ovpn_config.mp4")} title="Download OpenVPN Config File" autoplay="true"></video>
 </div>
 
 - Click on **Add New Server**
@@ -30,13 +34,15 @@ The below Quick GIF demonstrates how to Connect any device that support OpenVPN 
 - Client will install necessary driver & connect to CloudLAN room
 - Server will be seen online from CloudLAN app and now you can cast services running on Server using **add service** button
 
-:::caution 
+:::caution
 **Download & Copy the credentials before you close the windows, you will not be able to view these details again.**
-::: 
-:::tip
-**Quick troubleshoot** : If there any error at the time of adoption please follow uninstall steps below & try readopting once again 
 :::
-- ---
+:::tip
+**Quick troubleshoot** : If there any error at the time of adoption please follow uninstall steps below & try readopting once again
+:::
+
+---
+
 ### :point_right: Not Sure how to configure your OpenVPN Client? [learn more](../guides/computers/centos.md)
 
 ### How to Remove Host that is connected CloudLAN Room using OpenVPN Client Config?
@@ -45,6 +51,7 @@ The below Quick GIF demonstrates how to Connect any device that support OpenVPN 
 - Once your server is offline you can remove the server from your CloudLAN room using remove button.
 
 ---
+
 :::info
 :information_desk_person: **Something we didn't cover?**
 email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
