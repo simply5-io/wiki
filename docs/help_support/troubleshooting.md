@@ -5,6 +5,9 @@ sidebar_label: Troubleshooting
 slug: troubleshooting
 ---
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Close CloudLAN Appp
 - As the CloudLAN app runs as service, app minimizes to taskbar when you click ❌button.
 - To properly close the app, go to taskbar or system tray & right-click on the icon & 'quit'
@@ -12,7 +15,7 @@ slug: troubleshooting
 ### For windows
 
 <div className = "iframe_container">
-  <iframe className ="responsive-iframe" src="./assets/videos/How_to_close_the_app.mp4" title="How to close the app" ></iframe>
+    <video className="responsive-iframe" src={useBaseUrl("videos/How_to_close_the_app.mp4")} title="How to close the app" autoplay="true" controls></video>
 </div>
 
 

@@ -28,7 +28,7 @@ module.exports = {
           label: 'Documentation',
           position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        { to: 'blog', label: 'Blog', position: 'right' },
       ],
     },
     footer: {
@@ -49,7 +49,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/simply5-io/wiki',
         },
         blog: {
           showReadingTime: true,

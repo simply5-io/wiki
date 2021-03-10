@@ -6,6 +6,9 @@ slug: cloudlan_room
 ---
 
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Introduction 
 Room is a VPN workspace for your team & servers. 
 ### CloudLAN Free Room
@@ -20,7 +23,7 @@ This should be sufficient for trying out CloudLAN for your use case.
 ### Connecting to a CloudLAN Room
 
 <div className = "iframe_container">
-  <iframe className ="responsive-iframe" src="./assets/videos/Connecting_to_room.mp4" title="Download OpenVPN Config File" ></iframe>
+    <video className="responsive-iframe" src={useBaseUrl("videos/Connecting_to_room.mp4")} title="Connecting to room" controls="true"></video>
 </div>
 
 **CloudLAN** is a virtual network that's provisioned for you & your team to connect & collaborate in.  

@@ -6,6 +6,9 @@ slug: cloudlan_service_cast
 ---
 
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Introduction
 **Service casting** feature is built to provide a seamless and simplified way to use your machine as hosting server to improve productivity of the developer and professional teams working remote.
 
@@ -42,7 +45,7 @@ Any request on these URL's will be directly forwarded to your local machine
 Once your services/apps are running on your localhost, you can start casting those services with team in CloudLAN room.
 
 <div className = "iframe_container">
-  <iframe className ="responsive-iframe" src="assets/videos/Addig_service_cast.mp4" title="Cast your service to cloadLAN room" ></iframe>
+   <video className="responsive-iframe" src={useBaseUrl("videos/Addig_service_cast.mp4")} title="Adding Service Cast" autoplay="true" controls></video>
 </div>
 
 ### Service casting
@@ -54,7 +57,7 @@ Once your services/apps are running on your localhost, you can start casting tho
 
 ## **Share your files or folders**
 <div className = "iframe_container">
-  <iframe className ="responsive-iframe" src="assets/videos/AddigFolderCast.mp4" title="Share Folders or files to ClodLAN Room" ></iframe>
+  <video className="responsive-iframe" src={useBaseUrl("videos/AddigFolderCast.mp4")} title="Sharing Folders" autoplay="true" controls></video>
 </div>
 
 #### **Folder sharing**

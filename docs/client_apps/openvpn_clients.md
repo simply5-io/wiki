@@ -23,7 +23,7 @@ Make sure your resources meets prerequistes.
 The below Quick GIF demonstrates how to Connect any device that support OpenVPN Client and **Service casting** from servers without exposing its actual IP address using CloudLAN.
 
 <div className = "iframe_container">
-  <video className="responsive-iframe" src={useBaseUrl("videos/Download_ovpn_config.mp4")} title="Download OpenVPN Config File" autoplay="true"></video>
+  <video className="responsive-iframe" src={useBaseUrl("videos/Download_ovpn_config.mp4")} title="Download OpenVPN Config File" autoplay="true" controls></video>
 </div>
 
 - Click on **Add New Server**

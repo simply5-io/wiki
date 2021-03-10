@@ -40,37 +40,37 @@ Get onboard & try out CloudLAN without any hassle, when you are ready, just subs
 
 - Enter your email address and click on **signup** button.
 
-    ![assets/images/Untitled.png](assets/images/Untitled.png)
+    ![assets/images/Untitled.png](assets/images/intro1.png)
 
     [Download App](https://simply5.io/download) & Signup Page →Enter your Email Address to get verification link on your mail inbox.
 
 - Verification link will be sent to your inbox, Please verify your email address by clicking on the received link.
 
-    ![assets/images/Untitled1.png](assets/images/Untitled1.png)
+    ![assets/images/Untitled1.png](assets/images/intro2.png)
 
     Email verify link sent → wait for the verification link to receive in your mail inbox
 
 - Received verification link and continue to signup process by clicking on the verify email button.
 
-    ![assets/images/Untitled2.png](assets/images/Untitled2.png)
+    ![assets/images/Untitled2.png](assets/images/intro3.png)
 
     Yey...! Received verify email→ Continue to signup process by clicking ***verify email***.
 
 - Submit your Signup form to register your account in Simply5 CloudLAN
 
-    ![assets/images/Untitled3.png](assets/images/Untitled3.png)
+    ![assets/images/Untitled3.png](assets/images/intro4.png)
 
     Fill up the Signup form → Enter your name and password to account on Simply5 CloudLAN
 
 - Now account is ready, if you have installed the app use with **launch application** to autologin
 
-    ![assets/images/Untitled4.png](assets/images/Untitled4.png)
+    ![assets/images/Untitled4.png](assets/images/intro5.png)
 
     Launch Application → Now you can login to the app using launch application button, if you not installed app already Please download and install the app first, then click on launch application button.
 
 - Your **Free Room** is being prepared in the background and you need to wait for a minute to get it ready to connect.
 
-    ![assets/images/Untitled5.png](assets/images/Untitled5.png)
+    ![assets/images/Untitled5.png](assets/images/intro6.png)
 
     Free Room is being prepared → to get it ready for use
 
@@ -90,12 +90,12 @@ Get onboard & try out CloudLAN without any hassle, when you are ready, just subs
 
 - As a bonus you earn credits for each new users invited to CloudLAN.
 
-    ![assets/images/Untitled6.png](assets/images/Untitled6.png)
+    ![assets/images/Untitled6.png](assets/images/intro7.png)
 
 - New teammates can join room by signing up with invitation mail or accept the invite from the app's **Rooms draw**
 - Accepting the invitation your teammates will join room and can connect to room.
 
-    ![assets/images/Untitled7.png](assets/images/Untitled7.png)
+    ![assets/images/Untitled7.png](assets/images/intro8.png)
 
 ## User Rooms List
 
