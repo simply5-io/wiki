@@ -45,7 +45,7 @@ Any request on these URL's will be directly forwarded to your local machine
 Once your services/apps are running on your localhost, you can start casting those services with team in CloudLAN room.
 
 <div className = "iframe_container">
-   <video className="responsive-iframe" src={useBaseUrl("videos/Addig_service_cast.mp4")} title="Adding Service Cast" autoplay="true" controls></video>
+   <video className="responsive-iframe" src={useBaseUrl("videos/Addig_service_cast.mp4")} title="Adding Service Cast" autoPlay="true" controls></video>
 </div>
 
 ### Service casting
@@ -57,7 +57,7 @@ Once your services/apps are running on your localhost, you can start casting tho
 
 ## **Share your files or folders**
 <div className = "iframe_container">
-  <video className="responsive-iframe" src={useBaseUrl("videos/AddigFolderCast.mp4")} title="Sharing Folders" autoplay="true" controls></video>
+  <video className="responsive-iframe" src={useBaseUrl("videos/AddigFolderCast.mp4")} title="Sharing Folders" autoPlay="true" controls></video>
 </div>
 
 #### **Folder sharing**

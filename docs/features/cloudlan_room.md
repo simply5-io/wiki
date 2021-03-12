@@ -23,7 +23,7 @@ This should be sufficient for trying out CloudLAN for your use case.
 ### Connecting to a CloudLAN Room
 
 <div className = "iframe_container">
-    <video className="responsive-iframe" src={useBaseUrl("videos/Connecting_to_room.mp4")} title="Connecting to room" controls="true"></video>
+    <video className="responsive-iframe" src={useBaseUrl("videos/Connecting_to_room.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
 </div>
 
 **CloudLAN** is a virtual network that's provisioned for you & your team to connect & collaborate in.  
@@ -35,6 +35,10 @@ You have 2 methods of connection to a CloudLAN room, TeamVPN ON or OFF.
 ### Connect with TeamVPN
 “Connect with TeamVPN” (ON), all your internet traffic is securely routed through your CloudLAN room. This is useful when you are using an unknown WIFi network or want to access servers protected by firewall rules to allow only connection from whitelisted IP. Check our article on [securing your cloud resources with TeamVPN](https://docs.simply5.io/tag/secure-you-cloud-resources/). 
 Data usage will be counted as **TeamVPN Data.**
+### Auto Connect for Windows client
+
+Enable Auto Connect on Windows client to launch the app & connect to the room when your system reboots.
+![/assets/images/room1 <>](./assets/images/auto_connect.gif)
 
 :::info
 :information_desk_person: **Something we didn't cover?**

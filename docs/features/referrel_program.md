@@ -6,6 +6,9 @@ slug: referrel_program
 ---
 
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Earn referrel credits
 Access your referral program stats @ [https://accounts.simply5.io/account?page=referral](https://accounts.simply5.io/account?page=referral)
 

@@ -1,8 +1,9 @@
 module.exports = {
   title: 'Simply5',
-  tagline: 'The tagline of my site',
+  tagline: 'Networking from the cloud',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
+  baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -19,7 +20,7 @@ module.exports = {
       items: [
         {
           href: 'https://simply5.io',
-          label: 'Home',
+          label: 'Download',
           position: 'right',
         },
         {
@@ -40,6 +41,19 @@ module.exports = {
       },
       copyright: `Copyright © ${new Date().getFullYear()} Simply5 CloudLAN.`,
     },
+    colorMode: {
+      switchConfig: {
+        darkIcon: '⚪',
+        darkIconStyle: {
+          marginLeft: '2px',
+        },
+        lightIcon: '⚫',
+        lightIconStyle: {
+          marginLeft: '1px',
+        }
+      }
+
+    },
   },
   presets: [
     [
@@ -55,7 +69,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/simply5-io/wiki/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -27,6 +27,7 @@ Servers feature is built for cases where you have an always-on machine/device/VM
 
 Click on **Next** to learn more on How to Adopt a Server or Host.
 
+---
 
 :::info
 :information_desk_person: **Something we didn't cover?**

@@ -4,6 +4,7 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+ * 
 
 .heroBanner {
   padding: 4rem 0;
@@ -30,8 +31,34 @@
   padding: 2rem 0;
   width: 100%;
 }
+.quickLinkfeatures {
+  display: flex;   
+  align-items: center;
+  justify-content: space-around;
+  transition: transform .5s;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.quickLinkfeatures:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
+}
 
 .featureImage {
-  height: 200px;
-  width: 200px;
+  height: 120px;
+  width: 120px;
 }
+
+.quickLinkImage {  
+  height: 100px;
+  width: 100px;
+}
+
+.quickTitleImage {
+  height: 140px;
+  width: 140px;
+}
+

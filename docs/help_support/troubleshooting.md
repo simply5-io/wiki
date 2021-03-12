@@ -15,7 +15,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ### For windows
 
 <div className = "iframe_container">
-    <video className="responsive-iframe" src={useBaseUrl("videos/How_to_close_the_app.mp4")} title="How to close the app" autoplay="true" controls></video>
+    <video className="responsive-iframe" src={useBaseUrl("videos/How_to_close_the_app.mp4")} title="How to close the app" autoPlay="true" controls></video>
 </div>
 
 
