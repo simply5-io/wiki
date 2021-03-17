@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
-  tagline: "Democratizing networking for SMB's",
+  tagline: "Democratizing Networking for SMB's",
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   baseUrlIssueBanner: true,

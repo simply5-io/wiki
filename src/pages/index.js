@@ -132,7 +132,7 @@ function Home() {
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--outline button--primary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
@@ -150,7 +150,7 @@ function Home() {
             <h3><center>How can we help you?</center></h3>
             <p><center>We are always here to help whenever you have questions </center> </p>
           </div>
-          {/* <hr></hr> */}
+          <hr></hr>
         </div>
         {features2 && features2.length > 0 && (
           <section className={styles.features}>
@@ -160,7 +160,7 @@ function Home() {
                   <Feature2 key={idx} {...props} />
                 ))}
               </div>
-              {/* <hr></hr> */}
+              <hr></hr>
             </div>
           </section>
         )}
