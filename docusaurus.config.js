@@ -1,11 +1,12 @@
 module.exports = {
   title: 'Simply5',
-  tagline: 'The tagline of my site',
+  tagline: 'Networking from the cloud',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
+  baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
@@ -14,11 +15,12 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo-dark.svg',
       },
       items: [
         {
           href: 'https://simply5.io',
-          label: 'Home',
+          label: 'Download',
           position: 'right',
         },
         {
@@ -27,57 +29,30 @@ module.exports = {
           label: 'Documentation',
           position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        { to: 'blog', label: 'Blog', position: 'right' },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
+      logo: {
+        alt: 'Simply5',
+        src: 'img/logo-dark.svg',
+        href: 'https://simply5.io',
+      },
+      copyright: `Copyright © ${new Date().getFullYear()} Simply5 CloudLAN.`,
+    },
+    colorMode: {
+      switchConfig: {
+        darkIcon: '⚪',
+        darkIconStyle: {
+          marginLeft: '2px',
         },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        lightIcon: '⚫',
+        lightIconStyle: {
+          marginLeft: '1px',
+        }
+      }
+
     },
   },
   presets: [
@@ -88,13 +63,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/simply5-io/wiki',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/simply5-io/wiki/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
