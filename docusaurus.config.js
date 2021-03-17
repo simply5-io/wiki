@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Simply5',
-  tagline: 'Networking from the cloud',
+  title: 'Simply5 CloudLAN',
+  tagline: "Democratizing networking for SMB's",
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Simply5 Labs', // Usually your GitHub org/user name.
+  projectName: 'simply5-io/wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'CloudLAN',
@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://simply5.io',
+          href: 'https://www.simply5.io/download',
           label: 'Download',
           position: 'right',
         },
@@ -29,6 +29,7 @@ module.exports = {
           label: 'Documentation',
           position: 'right',
         },
+        { search: true },
         { to: 'blog', label: 'Blog', position: 'right' },
       ],
     },

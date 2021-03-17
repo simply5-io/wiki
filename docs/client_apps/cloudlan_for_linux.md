@@ -12,7 +12,7 @@ slug: cloudlan_for_linux
 ### ** Comming soon!... **
 Want notified? click on [ **Notify me**](http://www.google.com).
 
-> But Don't worry, still you can connect to the room!  [ **Take me there**](./openvpn_clients)
+> But Don't worry, still you can connect to the room!  [ **Take me there**](../guides/openvpn_clients.md)
 
 :::
 

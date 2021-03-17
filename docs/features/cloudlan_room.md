@@ -38,8 +38,10 @@ Data usage will be counted as **TeamVPN Data.**
 ### Auto Connect for Windows client
 
 Enable Auto Connect on Windows client to launch the app & connect to the room when your system reboots.
+
 ![/assets/images/room1 <>](./assets/images/auto_connect.gif)
 
+---
 :::info
 :information_desk_person: **Something we didn't cover?**
 email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
