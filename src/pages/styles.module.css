@@ -13,7 +13,7 @@
   overflow: hidden;
   background-color: var(--ifm-color-content-dark);
   text-shadow: var(--ifm-color-primary-lighter);
-  color: #38b449;  
+  color: var(--ifm-color-content-light);  
 }
 
 @media screen and (max-width: 966px) {
