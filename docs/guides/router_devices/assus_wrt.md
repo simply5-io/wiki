@@ -16,7 +16,7 @@ slug: assus_wrt
 
 ### **2. Download the configuration file from CloudLAN App**
 
-- Download the config file from the CloudLAN room - refer [this section](./../../../docs/client_apps/openvpn_clients.md)
+- Download the config file from the CloudLAN room - refer [this section](./../../../docs/guides/openvpn_clients.md)
 
 ### **3. Start the configuration of the router**
 

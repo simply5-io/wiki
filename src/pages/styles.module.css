@@ -7,15 +7,18 @@
  * 
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 0.5rem 0; 
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: var(--ifm-color-content-dark);
+  text-shadow: var(--ifm-color-primary-lighter);
+  color: var(--ifm-color-content-light);  
 }
 
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1rem;     
   }
 }
 
@@ -36,7 +39,7 @@
   align-items: center;
   justify-content: space-around;
   transition: transform .5s;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   width: 100%;
 }
 

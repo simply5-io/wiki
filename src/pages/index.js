@@ -23,28 +23,27 @@ import { render } from 'react-dom';
 //   );
 // }
 const features1 = [
-  {},
-  {
-    title: 'Vision & Mission',
-    imageUrl: 'img/undraw_target_kriv.svg',
-    description: (
-      <>
-        <b> Is to simplify networking solutions.</b>
-        <p> Is to democratize networking solutions using cloud services & support for multi-brand hardware to provide simplified Enterprise-class solutions. </p>
-      </>
-    ),
-  },
-
-  {
-    title: 'Enabling working from anywhere',
-    imageUrl: 'img/undraw_working_from_anywhere_ub67.svg',
-    description: (
-      <>
-        <p>We offer Enterprise level quick network solutions for SMBs at the best cost.
-          <br></br>We are proud to provide virtual offices to save more and grow more for remote teams.<br /></p>
-      </>
-    ),
-  },
+  // {
+  //   title: 'Vision & Mission',
+  //   imageUrl: 'img/undraw_target_kriv.svg',
+  //   description: (
+  //     <>
+  //       <b> Is to simplify networking solutions.</b>
+  //       <p> Is to democratize networking solutions using cloud services & support for multi-brand hardware to provide simplified Enterprise-class solutions. </p>
+  //     </>
+  //   ),
+  // },
+  // {},
+  // {
+  //   title: 'Enabling working from anywhere',
+  //   imageUrl: 'img/undraw_working_from_anywhere_ub67.svg',
+  //   description: (
+  //     <>
+  //       <p>We offer Enterprise level quick network solutions for SMBs at the best cost.
+  //         <br></br>We are proud to provide virtual offices to save more and grow more for remote teams.<br /></p>
+  //     </>
+  //   ),
+  // },
 
 ];
 function Feature1({ imageUrl, title, description }) {
@@ -133,7 +132,7 @@ function Home() {
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--outline button--primary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
@@ -145,11 +144,11 @@ function Home() {
       <main>
         <div className="container">
           <div className="text--center">
-            <img className={styles.quickTitleImage} src={"img/undraw_searching_p5ux.svg"} alt={"Quick Links"} />
+            <img className={styles.quickTitleImage} src={"img/undraw_searching_p5ux.svg"} alt={"How can we help you?"} />
           </div>
           <div>
-            <h2><center>Quick Links</center></h2>
-            <p><center>Click on category and easily find your answers</center> </p>
+            <h3><center>How can we help you?</center></h3>
+            <p><center>We are always here to help whenever you have questions </center> </p>
           </div>
           <hr></hr>
         </div>
