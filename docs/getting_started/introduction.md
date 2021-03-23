@@ -7,9 +7,9 @@ slug: /
 
 <!-- # Get started -->
 
-Hi there 👋 Welcome to CloudLAN, the virtual LAN network for your distributed team. We are focused to provide necessary toolset to quickly enable your team to develop together even when you are working remote. 
+Hi there 👋 Welcome to CloudLAN, the virtual LAN network for your distributed teams. We are focused on providing the necessary toolset to quickly enable your team to work together even when you are apart. 
 
-This Tool is built by developers for developers to improve productivity of your remote teams by skipping DevOps & CI/CD during development. 
+This software is built for remote teams to avoid security issues. It allows your teams to access the distributed files more securely than ever.
 
 When your team can consume latest changes/feature updates of the code in **Realtime**, why to wait for git push and deployments? 
 
@@ -32,51 +32,62 @@ Install **Simply5 CloudLAN** and Say Goodbye to remote development Inefficiencie
 
 > [Download](https://www.simply5.io/download/)→[Signup](https://www.simply5.io/download)→Installs→Login→Connect→Invite
 
-Every new signed up user get a free forever CloudLAN room without any credit/debit card. 
+By default you will get a free version of CloudLAN Room. In that, you can use all the features for free.
 
-Get onboard & try out CloudLAN without any hassle, when you are ready, just subscribe to a paid room. 
+Get onboard & try out CloudLAN without any hassle.
 
-## How to Signup & get your Free CloudLAN Room Setup
+## How to setup CloudLAN room for free?
 
-- Enter your email address and click on **signup** button.
+`*` **  [Windows 64](../client_apps/cloudlan_for_windows.md) ** 
 
-    ![assets/images/Untitled.png](assets/images/intro1.png)
+`*` **  [MacOS](../client_apps/cloudlan_for_macos.md) ** 
 
-    [Download App](https://simply5.io/download) & Signup Page →Enter your Email Address to get verification link on your mail inbox.
+`*` **  [Linux](../client_apps/cloudlan_for_linux.md) **
 
-- Verification link will be sent to your inbox, Please verify your email address by clicking on the received link.
 
-    ![assets/images/Untitled1.png](assets/images/intro2.png)
+### Signup your CloudLAN Account
+`1.` Enter your email address and click on **signup** button.
 
-    Email verify link sent → wait for the verification link to receive in your mail inbox
+   ![assets/images/Untitled.png](assets/images/intro1.png)
 
-- Received verification link and continue to signup process by clicking on the verify email button.
+  
 
-    ![assets/images/Untitled2.png](assets/images/intro3.png)
+`2.` Verification link will be sent to your inbox, Please verify your email address by clicking on the received link.
 
-    Yey...! Received verify email→ Continue to signup process by clicking ***verify email***.
+ ![assets/images/Untitled1.png](assets/images/intro2.png)
 
-- Submit your Signup form to register your account in Simply5 CloudLAN
+ Email verify link sent → wait for the verification link to receive in your mail inbox
 
-    ![assets/images/Untitled3.png](assets/images/intro4.png)
+`3.` Received verification link and continue to signup process by clicking on the verify email button.
 
-    Fill up the Signup form → Enter your name and password to account on Simply5 CloudLAN
+![assets/images/Untitled2.png](assets/images/intro3.png)
 
-- Now account is ready, if you have installed the app use with **launch application** to autologin
+ Yey...! Received verify email→ Continue to signup process by clicking ***verify email***.
 
-    ![assets/images/Untitled4.png](assets/images/intro5.png)
+`4.` Create your account by filling up the signup form.
 
-    Launch Application → Now you can login to the app using launch application button, if you not installed app already Please download and install the app first, then click on launch application button.
+ ![assets/images/Untitled3.png](assets/images/intro4.png)
 
-- Your **Free Room** is being prepared in the background and you need to wait for a minute to get it ready to connect.
+  Enter your name and password to create an account on `Simply5 CloudLAN`
 
-    ![assets/images/Untitled5.png](assets/images/intro6.png)
+:::tip
+  Enter the referral code if you referred by someone. To know more about referral benefits [check here](../features/referrel_program.md)  
+:::
 
-    Free Room is being prepared → to get it ready for use
+`5.` Now account is ready, if you have installed the app use with **launch application** to autologin
+
+ ![assets/images/Untitled4.png](assets/images/intro5.png)
+
+`Launch Application` → Now you can login to the app using launch application button, if you not installed app already Please download and install the app first, then click on launch application button.
+
+`6.` Your **Free Room** is being prepared in the background and you need to wait for a minute to get it ready to connect.
+
+ ![assets/images/Untitled5.png](assets/images/intro6.png)
+
 
 ## Invite & Join Room
 
-- It's time to invite your teammates to your room, the user limits is based on the room plan.
+- It's time to invite your team members to your room.
 
     ![assets/images/Room_list.gif](assets/images/Room_list.gif)
 
@@ -84,22 +95,21 @@ Get onboard & try out CloudLAN without any hassle, when you are ready, just subs
 
     ![assets/images/invite_member.gif](assets/images/invite_member.gif)
 
-- Invite member input supports multiple email addresses at a time.
+- Invite more members at a time.
+ ![assets/images/invite_multi_member.gif](assets/images/invite_multi_member.gif)
+  - You can invite more members at a time by entering their email addresse
 
-    ![assets/images/invite_multi_member.gif](assets/images/invite_multi_member.gif)
 
 - As a bonus you earn credits for each new users invited to CloudLAN.
 
     ![assets/images/Untitled6.png](assets/images/intro7.png)
 
 - New teammates can join room by signing up with invitation mail or accept the invite from the app's **Rooms draw**
-- Accepting the invitation your teammates will join room and can connect to room.
-
-    ![assets/images/Untitled7.png](assets/images/intro8.png)
+  ![assets/images/Untitled7.png](assets/images/intro8.png)
 
 ## User Rooms List
 
-By clicking on room icon user room list can be viewed.
+By clicking on room icon user room list will be viewed.
 
 - Switch to different rooms by selecting room from room list.
 
@@ -107,7 +117,7 @@ By clicking on room icon user room list can be viewed.
 
 ## Service casting
 
-- Once you connected to room, you can cast your [localhost](http://localhost) services for your teammates.
+- Once you connected to room, you can cast your [localhost](http://localhost) services among your teams.
 
     ![assets/images/Service_cast.gif](assets/images/Service_cast.gif)
 
@@ -120,9 +130,9 @@ By clicking on room icon user room list can be viewed.
 
 
 
-
+---
 
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::

@@ -40,7 +40,7 @@ module.exports = {
         src: 'img/logo-dark.svg',
         href: 'https://simply5.io',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Simply5 CloudLAN.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Simply5 Labs.`,
     },
     colorMode: {
       switchConfig: {

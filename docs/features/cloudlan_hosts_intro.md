@@ -30,6 +30,6 @@ Click on **Next** to learn more on How to Adopt a Server or Host.
 ---
 
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::
