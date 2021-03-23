@@ -7,20 +7,20 @@ slug: cloudlan_hosts_centos
 
 ---
 
-## How to Adopt CentOS server?
-Before adopting a server make sure your resourses meets below prerequisites. 
+## How to Adopt CentOS host?
+Before adopting a host make sure your resourses meets below prerequisites. 
 
 ### Prerequisites
 ---
 - You are the admin of the room
 - You are connected to the Room
-- Have access to the server you are trying to adopt
-- A Room has free license to adopt a server
+- Have access to the host you are trying to adopt
+- A Room has free license to adopt a host
 - CentOS 7
 ---
 ### Instructions
 
-The below Quick GIF demonstrates how to adopt ***CentOS Server*** and ***Service casting*** from servers without exposing its actual IP address using CloudLAN.
+The below Quick GIF demonstrates how to adopt ***CentOS host*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
 
 ![assets/images/Add__adopt_CentOS_server.gif](assets/images/Add__adopt_CentOS_server.gif)
 

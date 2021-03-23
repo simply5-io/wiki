@@ -7,19 +7,19 @@ slug: cloudlan_hosts_ubuntu
 
 ---
 
-## How to Adopt Ubuntu server?
-Before adopting a server make sure your resourses meets below prerequisites. 
+## How to Adopt Ubuntu host?
+Before adopting a host make sure your resourses meets below prerequisites. 
 ### Prerequisites
 ---
 - You are the admin of the room
 - You are connected to the Room
-- Have access to the server you are trying to adopt
-- Room has free license to adopt a server
+- Have access to the host you are trying to adopt
+- Room has free license to adopt a host
 - ---
 
 ### Instructions
 
-The below Quick GIF demonstrates how to adopt ***Ubuntu Server*** and ***Service casting*** from servers without exposing its actual IP address using CloudLAN.
+The below Quick GIF demonstrates how to adopt ***Ubuntu host*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
 
 ![assets/images/Ubuntu_Server_Adoption.gif](assets/images/Ubuntu_Server_Adoption.gif)
 
