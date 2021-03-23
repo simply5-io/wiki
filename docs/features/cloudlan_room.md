@@ -1,7 +1,7 @@
 ---
 id: cloudlan_room
 title: CloudLAN Room
-sidebar_label: CloudLAN Room
+sidebar_label: Setup CloudLAN Room
 slug: cloudlan_room
 ---
 

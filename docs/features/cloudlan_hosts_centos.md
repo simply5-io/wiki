@@ -1,7 +1,7 @@
 ---
 id: cloudlan_hosts_centos
-title: Adopt CentOS Server
-sidebar_label: Adopt CentOS Server
+title: Adopt CentOS Host
+sidebar_label: Adopt CentOS Host
 slug: cloudlan_hosts_centos
 ---
 

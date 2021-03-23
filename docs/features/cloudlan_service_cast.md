@@ -1,7 +1,7 @@
 ---
 id: cloudlan_service_cast
 title: Service Casting
-sidebar_label: Service Casting
+sidebar_label: Cast a service
 slug: cloudlan_service_cast
 ---
 

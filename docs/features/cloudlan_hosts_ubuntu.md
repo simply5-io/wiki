@@ -1,7 +1,7 @@
 ---
 id: cloudlan_hosts_ubuntu
-title: Adopt Ubuntu Server
-sidebar_label: Adopt Ubuntu Server
+title: Adopt Ubuntu Host
+sidebar_label: Adopt Ubuntu Host
 slug: cloudlan_hosts_ubuntu
 ---
 

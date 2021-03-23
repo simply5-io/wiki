@@ -1,7 +1,7 @@
 ---
 id: cloudlan_hosts_intro
-title: CloudLAN Hosts
-sidebar_label: Introduction
+title: CloudLAN Hosts-introduction
+sidebar_label: Connecting devices
 slug: cloudlan_hosts_intro
 ---
 
