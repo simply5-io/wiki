@@ -28,7 +28,7 @@ Install **Simply5 CloudLAN** and Say Goodbye to remote development Inefficiencie
 | **TeamURL**         | Only users connected to same room will be able to access                    |
 | **PublicURL**       | Anyone with the link will be able to access                                 |
 
-## 🤔 how to setup a CloudLAN Room?
+## 🤔 How to setup a CloudLAN Room?
 
 > [Download](https://www.simply5.io/download/)→[Signup](https://www.simply5.io/download)→Installs→Login→Connect→Invite
 
