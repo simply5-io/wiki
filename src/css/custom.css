@@ -76,3 +76,15 @@ article iframe {
   box-sizing: border-box;
   border: 0 solid #e2e8f0;
 }
+
+@media (max-width: 996px){
+  .menu--responsive .menu__button {
+      display: inherit;
+  }
+  .menu--responsive .menu__button {
+    bottom: 2rem;
+    display: list-item;
+    left: 2rem;
+    z-index: var(--ifm-z-index-fixed);
+  }
+  }

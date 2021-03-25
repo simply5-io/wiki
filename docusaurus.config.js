@@ -30,7 +30,8 @@ module.exports = {
           position: 'right',
         },
         { search: true },
-        { to: 'blog', label: 'Blog', position: 'right' },
+        //TODO:Update Blog integration
+        // { to: 'blog', label: 'Blog', position: 'right' },
       ],
     },
     footer: {
