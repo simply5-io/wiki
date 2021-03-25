@@ -7,7 +7,7 @@ slug: cloudlan_hosts_intro
 
 ---
 ## Adding hosts to your CloudLAN Room
-Servers feature is built for cases where you have an always-on machine/device/VM to which you would like to have a secure & private connectivity to it. The adoption process is as simple as running a single command on the server terminal. 
+Host feature is built for cases where you have an always-on machine/device/VM to which you would like to have a secure & private connectivity to it. The adoption process is as simple as running a single command on the server terminal. 
 
 ### When to use Hosts Feature?
 
