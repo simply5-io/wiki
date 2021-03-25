@@ -35,7 +35,7 @@ CloudLAN updates automatically! We push updates on a regular basis with bug fixe
 ---
  <details>
  <summary> How to close the app? </summary> 
- Answer:    As CloudLAN is a connectivity app closing or minimizing the app will minimize it to the Notification area. You can right-click on the icon & close the app properly  
+ Answer:    Since CloudLAN is a connectivity app closing or minimizing the app, will minimize it to the Notification area. You can right-click on the icon & close the app properly  
 </details>
 
 ---
@@ -46,6 +46,6 @@ CloudLAN updates automatically! We push updates on a regular basis with bug fixe
 
 ---
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::

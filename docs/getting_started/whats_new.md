@@ -1,7 +1,7 @@
 ---
 id: whats_new
-title: What's New?
-sidebar_label: What's New?
+title: Version Updates
+sidebar_label: Version Updates
 slug: whats_new
 
 ---
@@ -11,15 +11,13 @@ slug: whats_new
 ---
 
 
-Simply5 CloudLAN introducing Server Feature in this update.
+Simply5 CloudLAN Now Introducing Server Feature in this update.
 
-*Since our launch, many of our subscribers were demanding for a Dedicated IP to their Rooms and We understood that the flexible and secured room connectivity for cross platforms will make our product a more powerful tool in development and business growth.*
+*Since our first launch, many of our subscribers were demanding for a Dedicated IP to their Rooms and we understood the importance of secure connections across platforms. We are sure that this feature will make our customers more secure on cloud room.*
 
-*Hence our team decided to release this feature version 1.1.0 of Simply5 CloudLAN to reach our subscribers needs.*
 
-*With this release, subscribers will now be able to achieve more security & flexiblity in the network & can connect to their virtual office/CloudLAN Room from any device that supports OpenVPN Client, with improved server adding experience and many more.*
+*With this cloudLAN v1.1.0 release, subscribers will now be able to achieve more security & flexibility in the network & can connect to their virtual office/CloudLAN Room from any device that supports OpenVPN Client, with improved server adding experience and many more.*
 
-  ***We believe that even perfection has room for improvement and we saw new expectations from our subscribers, an evolution that had the smallest elements making largest impacts.***  
 
 ### Application updated to v1.1.0
 
@@ -33,7 +31,7 @@ Simply5 CloudLAN Introducing new features and enhancements to make a powerful to
 ![assets/images/download_ovp_file.gif](assets/images/download_ovp_file.gif)
 
 ---
-### 2. *Subscribe to the **Business plan** to have a dedicated Ip address & more users which gives more security for your Room.*
+### 2. *Get dedicated IP to work faster & secure*
 
 ![assets/images/Untitled.png](assets/images/Untitled.png)
 

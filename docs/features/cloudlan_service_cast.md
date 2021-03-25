@@ -1,7 +1,7 @@
 ---
 id: cloudlan_service_cast
 title: Service Casting
-sidebar_label: Service Casting
+sidebar_label: Cast a service
 slug: cloudlan_service_cast
 ---
 
@@ -72,6 +72,6 @@ Once your services/apps are running on your localhost, you can start casting tho
 
 ---
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::

@@ -20,7 +20,7 @@ Make sure your resources meets prerequistes.
 
 ### Instructions
 
-The below Quick GIF demonstrates how to Connect any device that support OpenVPN Client and **Service casting** from servers without exposing its actual IP address using CloudLAN.
+The below Quick video demonstrates how to Connect any device that supports OpenVPN Client and **Service casting** from servers without exposing its actual IP address using CloudLAN.
 
 <div className = "iframe_container">
   <video className="responsive-iframe" src={useBaseUrl("videos/Download_ovpn_config.mp4")} title="Download OpenVPN Config File" autoPlay="true" controls></video>
@@ -53,6 +53,6 @@ The below Quick GIF demonstrates how to Connect any device that support OpenVPN 
 ---
 
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::

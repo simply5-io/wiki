@@ -61,8 +61,8 @@
   width: 100%;
   height: 100%;
 }
-.hero__subtitle{
-  color: #38b449;
+.hero__subtitle{  
+   color: #72819b;
 }
 article p img,
 article iframe {
@@ -71,3 +71,20 @@ article iframe {
   margin-right: auto;
   max-width: 100%;
 }
+
+*, :after, :before {
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+}
+
+@media (max-width: 996px){
+  .menu--responsive .menu__button {
+      display: inherit;
+  }
+  .menu--responsive .menu__button {
+    bottom: 2rem;
+    display: list-item;
+    left: 2rem;
+    z-index: var(--ifm-z-index-fixed);
+  }
+  }

@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
   tagline: "Democratizing Networking for SMB's",
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wiki.simply5.io',
   baseUrl: '/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
@@ -30,7 +30,8 @@ module.exports = {
           position: 'right',
         },
         { search: true },
-        { to: 'blog', label: 'Blog', position: 'right' },
+        //TODO:Update Blog integration
+        // { to: 'blog', label: 'Blog', position: 'right' },
       ],
     },
     footer: {
@@ -40,7 +41,7 @@ module.exports = {
         src: 'img/logo-dark.svg',
         href: 'https://simply5.io',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Simply5 CloudLAN.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Simply5 Labs.`,
     },
     colorMode: {
       switchConfig: {
@@ -56,6 +57,12 @@ module.exports = {
 
     },
   },
+  scripts: [
+    {
+      src: "https://embed.tawk.to/5f327569f87ad20c6d7cda98/default",
+      async: true
+    }
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -64,7 +71,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/simply5-io/wiki',
+            'https://github.com/simply5-io/wiki/edit/dev/',
         },
         blog: {
           showReadingTime: true,

@@ -1,26 +1,26 @@
 ---
 id: cloudlan_hosts_centos
-title: Adopt CentOS Server
-sidebar_label: Adopt CentOS Server
+title: Adopt CentOS Host
+sidebar_label: Adopt CentOS Host
 slug: cloudlan_hosts_centos
 ---
 
 ---
 
-## How to Adopt CentOS server?
-Before adopting a server make sure your resourses meets below prerequisites. 
+## How to Adopt CentOS host?
+Before adopting a host make sure your resourses meets below prerequisites. 
 
 ### Prerequisites
 ---
 - You are the admin of the room
 - You are connected to the Room
-- Have access to the server you are trying to adopt
-- A Room has free license to adopt a server
+- Have access to the host you are trying to adopt
+- A Room has free license to adopt a host
 - CentOS 7
 ---
 ### Instructions
 
-The below Quick GIF demonstrates how to adopt ***CentOS Server*** and ***Service casting*** from servers without exposing its actual IP address using CloudLAN.
+The below Quick GIF demonstrates how to adopt ***CentOS host*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
 
 ![assets/images/Add__adopt_CentOS_server.gif](assets/images/Add__adopt_CentOS_server.gif)
 
@@ -80,6 +80,6 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 
 ---
 :::info
-:information_desk_person: **Something we didn't cover?**
-email us at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Have you any question which is not answered in this knowledge base? **
+Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
 :::
