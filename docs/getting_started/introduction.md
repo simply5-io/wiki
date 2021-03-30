@@ -117,7 +117,7 @@ By clicking on room icon user room list will be viewed.
 
 ## Service casting
 
-- Once you connected to room, you can cast your [localhost](http://localhost) services among your teams.
+- Once you connected to room, you can cast your localhost services among your teams.
 
     ![assets/images/Service_cast.gif](assets/images/Service_cast.gif)
 
