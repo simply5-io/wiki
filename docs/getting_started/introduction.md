@@ -38,11 +38,11 @@ Get onboard & try out CloudLAN without any hassle.
 
 ## How to setup CloudLAN room for free?
 
-`*` **  [Windows 64](../client_apps/cloudlan_for_windows.md) ** 
+`*` **  [Windows 64](../installation_guide/cloudlan_for_windows.md) ** 
 
-`*` **  [MacOS](../client_apps/cloudlan_for_macos.md) ** 
+`*` **  [MacOS](../installation_guide/cloudlan_for_macos.md) ** 
 
-`*` **  [Linux](../client_apps/cloudlan_for_linux.md) **
+`*` **  [Linux](../installation_guide/cloudlan_for_linux.md) **
 
 
 ### Signup your CloudLAN Account
@@ -71,7 +71,7 @@ Get onboard & try out CloudLAN without any hassle.
   Enter your name and password to create an account on `Simply5 CloudLAN`
 
 :::tip
-  Enter the referral code if you referred by someone. To know more about referral benefits [check here](../features/referrel_program.md)  
+  Enter the referral code if you referred by someone. To know more about referral benefits [check here](../referrel_programs/referrel_program.md)  
 :::
 
 `5.` Now account is ready, if you have installed the app use with **launch application** to autologin

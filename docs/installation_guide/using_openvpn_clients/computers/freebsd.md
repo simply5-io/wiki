@@ -2,7 +2,7 @@
 id: freebsd
 title: FreeBSD
 sidebar_label: FreeBSD
-slug: guides/computers/freebsd
+slug: freebsd
 ---
 ---
 ## **Install OpenVPN on FreeBSD**

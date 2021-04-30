@@ -30,7 +30,7 @@ The below Quick video demonstrates how to Connect any device that supports OpenV
 - Give it a name, select Installation method **OpenVPN Client Config** & click on continue.
 - Copy the credentials on secured place for future use.
 - Click on **Download Config** Button and select a folder to save the config file.
-- Do Follow the instructions mentioned on [OpenVPN Client guides](../guides/computers/centos.md).
+- Do Follow the instructions mentioned on [OpenVPN Client guides](../using_openvpn_clients/computers/centos.md).
 - Client will install necessary driver & connect to CloudLAN room
 - Server will be seen online from CloudLAN app and now you can cast services running on Server using **add service** button
 
@@ -43,7 +43,7 @@ The below Quick video demonstrates how to Connect any device that supports OpenV
 
 ---
 
-### :point_right: Not Sure how to configure your OpenVPN Client? [learn more](../guides/computers/centos.md)
+### :point_right: Not Sure how to configure your OpenVPN Client? [learn more](../using_openvpn_clients/computers/centos.md)
 
 ### How to Remove Host that is connected CloudLAN Room using OpenVPN Client Config?
 

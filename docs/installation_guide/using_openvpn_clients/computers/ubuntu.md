@@ -2,7 +2,7 @@
 id: ubuntu
 title: Ubuntu
 sidebar_label: Ubuntu
-slug: guides/computers/ubuntu
+slug: ubuntu
 ---
 ---
 ## Install OpenVPN for Ubuntu

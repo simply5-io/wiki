@@ -27,11 +27,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
     When running the installer, try running as Administrator 
 
-    ![/assets/images/room2](../features/assets/images/room2.png)
+    ![/assets/images/room2](../installation_guide/cloudlan_hosts/assets/images/room2.png)
 
     Make sure you have accepted this driver install prompt 
 
-    ![/assets/images/room3](../features/assets/images/room3.png)
+    ![/assets/images/room3](../installation_guide/cloudlan_hosts/assets/images/room3.png)
 
 - Check if TAP adaptor is installed
     #### On Windows
@@ -43,7 +43,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
   > Make sure at least 1 TAP-WIndows Adapter is available
 
-![/assets/images/room4](../features/assets/images/room4.png)
+![/assets/images/room4](../installation_guide/cloudlan_hosts/assets/images/room4.png)
     
  ### If TAP-Windows Adapter is not installed, 
  - Download & install [OPENVPN GUI client](https://openvpn.net/community-downloads/)

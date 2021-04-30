@@ -1,7 +1,7 @@
 ---
 id: whats_new
-title: Version Updates
-sidebar_label: Version Updates
+title: Whats New?
+sidebar_label: Whats New?
 slug: whats_new
 
 ---

@@ -2,7 +2,7 @@
 id: raspberrypi
 title: Raspberry Pi
 sidebar_label: Raspberry Pi
-slug: guides/computers/raspberry_pi
+slug: raspberry_pi
 ---
 ---
 ## **Install OpenVPN for Raspbian**
