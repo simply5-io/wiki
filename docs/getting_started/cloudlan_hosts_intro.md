@@ -1,13 +1,13 @@
 ---
 id: cloudlan_hosts_intro
 title: CloudLAN Hosts-introduction
-sidebar_label: Connecting devices
+sidebar_label: Hosts
 slug: cloudlan_hosts_intro
 ---
 
 ---
 ## Adding hosts to your CloudLAN Room
-Servers feature is built for cases where you have an always-on machine/device/VM to which you would like to have a secure & private connectivity to it. The adoption process is as simple as running a single command on the server terminal. 
+Host feature is built for cases where you have an always-on machine/device/VM to which you would like to have a secure & private connectivity to it. The adoption process is as simple as running a single command on the server terminal. 
 
 ### When to use Hosts Feature?
 
@@ -16,10 +16,10 @@ Servers feature is built for cases where you have an always-on machine/device/VM
 - Great to setup access to Raspberry Pi boards
 
 :::note Quick Notes
-- Room should be active with a server license.
-- Only Room admin can add Servers or Hosts to the room.
+- Room should be active with a Host license.
+- Only Room admin can add Hosts to the room.
 - Admin will be able to manage link casting on the server from user client app once connected to the room
-- We currently support Ubuntu & CentOS flavors
+- We currently support Ubuntu & CentOS flavors using CloudLAN Host Agent
 :::
 ### **Are you ready to adopt a Hosts?**
 
@@ -30,6 +30,6 @@ Click on **Next** to learn more on How to Adopt a Server or Host.
 ---
 
 :::info
-:information_desk_person: **Have you any question which is not answered in this knowledge base? **
-Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
+Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::
