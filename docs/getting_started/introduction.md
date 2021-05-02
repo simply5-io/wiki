@@ -110,19 +110,6 @@ By clicking the room icon view all the room you are part of
 
     ![assets/images/switch_room__connect.gif](assets/images/switch_room__connect.gif)
 
-## Service casting
-
-- Once you connected to the room, you can cast [localhost](http://localhost) services to your teams
-
-    ![assets/images/Service_cast.gif](assets/images/Service_cast.gif)
-
-## Easily share a folder with your team
-
-- Add Service name and a free port, then select folder you want to share 
-
-    ![assets/images/Shared_Folders.gif](assets/images/Shared_Folders.gif)
-  
-
 
 
 ---

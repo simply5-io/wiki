@@ -8,8 +8,9 @@ slug: cloudlan_for_windows
 ---
 ## Installing CloudLAN App on Windows
 - To get the desktop app, go to [www.simply5.io/download](http://www.simply5.io/download) and click `Download for Windows`
-- Run the downloaded .exe file
+- Run the downloaded `.exe file`
 - It will installed the application & open it
+- Accept all Windows prompts for installing necessary services & drivers
 - Login using your email
 - If you don't have a Simply5 account, it will take you through signup process
 
@@ -17,7 +18,8 @@ slug: cloudlan_for_windows
 
 :::note
 
-You'll need the latest version of Windows to run CloudLAN on desktop. The latest version is Windows 10 build 18362.145.
+Make sure you are running latest Windows version <br />
+
 
 :::
 
@@ -29,19 +31,19 @@ CloudLAN updates automatically! We push updates on a regular basis with bug fixe
 
 <details>
 <summary>  Is there a 32 bit version? </summary>
- Answer:    It is in the roadmap, plz upvote by leaving a comment on comment section.  
+ Answer:    It is in the roadmap, plz upvote 
 </details>
 
 ---
  <details>
  <summary> How to close the app? </summary> 
- Answer:    Since CloudLAN is a connectivity app closing or minimizing the app, will minimize it to the Notification area. You can right-click on the icon & close the app properly  
+ Answer:    Since CloudLAN is a connectivity app closing or minimizing the app, will minimize it to the Notification area. You need to right-click on the icon & close the app  
 </details>
 
 ---
  <details>
  <summary> Can I login to multiple accounts? </summary> 
- Answer: No, Currently we only support running only 1 instance of app 
+ Answer: No, Currently we only support running 1 instance of app 
 </details>
 
 ---
