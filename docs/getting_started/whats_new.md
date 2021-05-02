@@ -1,7 +1,7 @@
 ---
 id: whats_new
-title: Version Updates
-sidebar_label: Version Updates
+title: Whats New?
+sidebar_label: Whats New?
 slug: whats_new
 
 ---
@@ -11,22 +11,20 @@ slug: whats_new
 ---
 
 
-Simply5 CloudLAN Now Introducing Server Feature in this update.
-
-*Since our first launch, many of our subscribers were demanding for a Dedicated IP to their Rooms and we understood the importance of secure connections across platforms. We are sure that this feature will make our customers more secure on cloud room.*
+*Since our first launch, many of our subscribers were demanding for a Dedicated IP to their Rooms. We are sure that this feature will make CloudLAN rooms more personal & secure.*
 
 
-*With this cloudLAN v1.1.0 release, subscribers will now be able to achieve more security & flexibility in the network & can connect to their virtual office/CloudLAN Room from any device that supports OpenVPN Client, with improved server adding experience and many more.*
+*With CloudLAN v1.1 release, subscribers will now be able to achieve more security & flexibility,  can connect to their virtual office/CloudLAN Room from any device that supports OpenVPN Client, with improved Hosts adding experience and many more.*
 
 
-### Application updated to v1.1.0
+### Application updated to v1.1
 
-Simply5 CloudLAN Introducing new features and enhancements to make a powerful tool for remote with it’s release of v1.1.0.
+Simply5 CloudLAN Introducing new features and enhancements to make a powerful tool for remote teams.
 
 
 ## With our most recent updates, you can:
 ----
-### 1. *Now connect to the room using any device that supports OpenVPN Client on it with improved server adding experience.*
+### 1. *Now connect any device that supports generic OpenVPN Client with improved Host adding experience.*
 
 ![assets/images/download_ovp_file.gif](assets/images/download_ovp_file.gif)
 
@@ -36,33 +34,32 @@ Simply5 CloudLAN Introducing new features and enhancements to make a powerful to
 ![assets/images/Untitled.png](assets/images/Untitled.png)
 
 ---
-### 3. *Get Dedicated IP address as addon if you are an LTD subscriber.*
+### 3. *Get Dedicated IP address as addon if you are an LTD subscriber*
 
 ![assets/images/upgrade_dedicateip.gif](assets/images/upgrade_dedicateip.gif)
 
 ---
 
-### 4. *Create a room with a new server region *(LONDON)*.*
+### 4. *New regions - London, Singapore & Los Angeles *
 
 ![assets/images/London_region_feature.gif](assets/images/London_region_feature.gif)
 
 ---
-### 5. *Enable **Auto Connect** on our GUI to connect instantly on app start.*
+### 5. *Enable 'Auto Connect' to connect instantly on system bootup*
 
 ![assets/images/auto_connect.gif](assets/images/auto_connect.gif)
 
 ---
 
-### 6. *Don't want to keep expired paid room anymore?* Delete it from your profile.
+### 6. *Don't want to keep expired paid room anymore?* Delete it from your profile
 
 ![assets/images/delete_room.gif](assets/images/delete_room.gif)
 
 ---
-### 7. *View TeamVPN IP on the Rooms panel.*
+### 7. *Easy access to TeamVPN IP from Rooms panel.*
 
 ![assets/images/teamvpnip.gif](assets/images/teamvpnip.gif)
 
 ---
-
 
 
