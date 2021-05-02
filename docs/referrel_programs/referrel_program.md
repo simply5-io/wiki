@@ -12,14 +12,15 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## Earn referrel credits
 Access your referral program stats @ [https://accounts.simply5.io/account?page=referral](https://accounts.simply5.io/account?page=referral)
 
-**CloudLAN** offers an easy way to earn referral credits introducing new users to CloudLAN by
+**CloudLAN** offers an easy way to earn referral credits introducing new users to CloudLAN
 
 1. Inviting users to your rooms
-2. Sharing your personal referral link 
+2. Sharing your personal referral link for users to signup with 
+
 
 ![assets/images/referrel_program1.png](assets/images/referrel_program1.png)
 
-You get **$5** for every successful signup & **$10** when the user completes his first paid month.
+You get **$5** for every successful signup & **$10** when the invited user completes first paid month.
 
 Your friends will also get a **$10** credit when they signup with your referral.
 
@@ -30,7 +31,7 @@ Your friends will also get a **$10** credit when they signup with your referral.
 - You can check your credits from the profile icon on the app Or by visiting [Referral program](https://accounts.simply5.io/account?page=referral) section in accounts settings 
 - Click on **Earn Credits** to see your personal referral link from the app.
 
-## Redeem your erned Credits
+## Redeem your earnt Credits
 Once you have enough credits, go to  [Referral program](https://accounts.simply5.io/account?page=referral) section & click **Redeem** to transfer them to CloudLAN Wallet so they can be used on next subscription renewal.
 
 ![assets/images/referrel_program3.png](assets/images/referrel_program3.png)
