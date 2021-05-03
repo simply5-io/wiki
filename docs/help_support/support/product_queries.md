@@ -28,7 +28,7 @@ CloudLAN is a virtual network that's provisioned for you & your team to connect 
 
 **Connect with TeamVPN (TeamVPN ON)** <br />
 All your internet traffic is securely routed through your CloudLAN room. This is useful when you are using an unknown WIFi network or want to access servers protected by firewall rules to allow only connection from whitelisted TeamVPN IP. <br /> 
-Check our article on [securing your cloud resources with TeamVPN](https://docs.simply5.io/tag/secure-you-cloud-resources/). <br />
+Check our article on securing your cloud resources with TeamVPN. <br />
 
 
 ### What is Host license?
