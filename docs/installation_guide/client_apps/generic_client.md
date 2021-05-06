@@ -1,6 +1,6 @@
 ---
 id: generic_client
-title: Generic Client
+title: Generic Client for User
 sidebar_label: Generic Client
 slug: generic_client
 

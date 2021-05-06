@@ -1,6 +1,6 @@
 ---
 id: host_with_generic_client
-title: Using Generic client with Host
+title: Generic client for Hosts
 sidebar_label: Generic Client
 slug: host_with_Generic_client
 ---
