@@ -30,20 +30,20 @@ The below Quick video demonstrates how to Connect any device that supports OpenV
 <br />
 
 - Click on **Add New Server**
-- Give it a name, select Installation method - **Generic Client** & click on continue.
-- Copy the credentials on secured place for future use.
+- Give it a *Name*, select **Generic Client** from Dropdown & click on continue.
 - Click on **Download Config** Button and select a folder to save the config file.
 - Follow guide provided by OpenVPN client to import the config file 
-- Server will be seen online from CloudLAN app 
+- Server will be seen online from CloudLAN app once connected
 
 <br />
 
 :::caution
-Download & Copy the credentials before you close the windows, you will not be able to view these details again.
+Download & Copy the credentials before you close the windows, you will not be able to view these details again, Remove the Host & start over if needed
 :::
 
 
-<br />
+
+---
 ---
 :::info
 :information_desk_person: **Got a question not answered in this knowledge base? ** <br />
