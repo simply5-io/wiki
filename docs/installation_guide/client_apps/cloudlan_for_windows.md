@@ -28,7 +28,12 @@ Make sure you are running latest Windows version <br />
 CloudLAN updates automatically! We push updates on a regular basis with bug fixes and performance improvements. The download happens in the background & you will be prompted to restart the app to complete the installation process.
 
 ## FAQ
+<details>
+ <summary> Am getting error while installing drivers </summary> 
+ Answer: Most cases, restarting your systems after installing CloudLAN App should solve most of the issues. Restart is recommended when installing the app on Windows server edition.
+</details>
 
+---
 <details>
 <summary>  Is there a 32 bit version? </summary>
  Answer:    It is in the roadmap, plz upvote 
@@ -47,6 +52,8 @@ CloudLAN updates automatically! We push updates on a regular basis with bug fixe
 </details>
 
 ---
+Check out [Toubleshooting section](../../help_support/troubleshooting.md) for more common issues.
+
 :::info
 :information_desk_person: **Got a question not answered in this knowledge base? ** <br />
 Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app

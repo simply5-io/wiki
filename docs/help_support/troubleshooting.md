@@ -17,28 +17,28 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <div className = "iframe_container">
     <video className="responsive-iframe" src={useBaseUrl("videos/How_to_close_the_app.mp4")} title="How to close the app" autoPlay="true" controls></video>
 </div>
-
+<br />
 
 ## 🛠 Troubleshooting connection issues
 
 
-- Check if reinstalling helps
+### Check if Re-Installing helps
+When running the installer, try running as Administrator 
 
-    When running the installer, try running as Administrator 
+![/assets/images/room2](../installation_guide/cloudlan_hosts/assets/images/room2.png)
 
-    ![/assets/images/room2](../installation_guide/cloudlan_hosts/assets/images/room2.png)
+Make sure you have accepted this driver install prompt 
 
-    Make sure you have accepted this driver install prompt 
+![/assets/images/room3](../installation_guide/cloudlan_hosts/assets/images/room3.png)
+<br />
 
-    ![/assets/images/room3](../installation_guide/cloudlan_hosts/assets/images/room3.png)
-
-- Check if TAP adaptor is installed
-    #### On Windows
+### Check if TAP adaptor is installed
+On Windows
 
 
  > Windows + R >
 
- > type **ncpa.cpl** & click "OK"
+ > Type **ncpa.cpl** & click "OK"
 
   > Make sure at least 1 TAP-WIndows Adapter is available
 

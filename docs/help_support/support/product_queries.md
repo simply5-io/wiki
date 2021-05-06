@@ -28,14 +28,14 @@ CloudLAN is a virtual network that's provisioned for you & your team to connect 
 
 **Connect with TeamVPN (TeamVPN ON)** <br />
 All your internet traffic is securely routed through your CloudLAN room. This is useful when you are using an unknown WIFi network or want to access servers protected by firewall rules to allow only connection from whitelisted TeamVPN IP. <br /> 
-Check our article on securing your cloud resources with TeamVPN. <br />
+<!-- Check our article on [securing your cloud resources with TeamVPN](https://docs.simply5.io/tag/secure-you-cloud-resources/). <br /> -->
 
 
 ### What is Host license?
 
 CloudLAN is built for communication between user devices, so they will need to login & connect to the room.
 
-There are end devices like a VM on cloud provider or Raspberry Pi at home for which multiple CloudLAN members may need direct access all the time. 
+There are end devices like a VM on cloud provider or Raspberry Pi dev boards for which multiple CloudLAN members may need direct access all the time. 
 
 For this use-case we are introducing **Host License.** Using simply adoption process get the end device connect to your room & the Host agent will keep the connection persistent still the server is removed from the room
 
