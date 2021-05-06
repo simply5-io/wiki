@@ -35,11 +35,9 @@ sudo dpkg-reconfigure tzdata
 sudo -i
 ```
 
-### 5**. Download configuration file & setup OpenVPN**
+### 5**. Download configuration file**
 
-```basic
-cd /tmp mkdir -p /etc/openvpn && mv config/* /etc/openvpn && chmod +x /etc/openvpn/update-resolv-conf && rm -rf config && rm -f ovpn-se-gothenburg.zip
-```
+Move the downloaded .ovpn file to OpenVPN folder 
 
 ### 6**. Enter your login credentials**
 
@@ -66,20 +64,12 @@ The service you should check is openvpn@NAME where NAME is the name of your 
 systemctl status openvpn@ovpn
 ```
 
-You should see something like:
-
-```basic
-openvpn@ovpn.service - OpenVPN connection to ovpn
-  Loaded: loaded (/lib/systemd/system/openvpn@.service; enabled; vendor preset: enabled)
-  Active: active (running) since Mon 2017-10-23 07:57:37 CEST; 2h 15min ago
-  Docs: man:openvpn(8)
-```
 
 ### 9**. Done**
-*Congratulations!* Now your Raspberry Pi will run behind OVPN. The Raspberry Pi will connect to **CloudLAN Room** automatically when it is started.
+*Congratulations!* Now your Raspberry Pi is connected to CloudLAN Room.
 
 ---
 :::info
-:information_desk_person: **Have you any question which is not answered in this knowledge base? **
-Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
+Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

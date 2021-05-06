@@ -20,9 +20,7 @@ apt-get update && apt-get upgrade && apt-get install curl openvpn unzip
 
 ### **3. Download the configuration file**
 
-```basic
-cd /tmp && mkdir -p /etc/openvpn && mv config/* /etc/openvpn && chmod +x /etc/openvpn/update-resolv-conf && rm -rf config
-```
+Move the downloaded .ovpn file to OpenVPN folder
 
 ### **4. Enter your login credentials**
 
@@ -63,9 +61,7 @@ openvpn@ovpn.service - OpenVPN connection to ovpn
 ### **7. Done**
 Congratulations! Now your Debian will connect to CloudLAN Room automatically when it is started. 
 
-
-
-:::important 
+:::important Quick Commands
 ```basic
 1. systemctl start openvpn    # Starts OpenVPN and connects to OVPN
 2. systemctl stop openvpn     # Stops OpenVPN
@@ -77,6 +73,6 @@ Congratulations! Now your Debian will connect to CloudLAN Room automatically whe
 ---
 
 :::info
-:information_desk_person: **Have you any question which is not answered in this knowledge base? **
-Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
+Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

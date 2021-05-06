@@ -19,11 +19,9 @@ sudo tcsh
 pkg update && pkg install openvpn unzip
 ```
 
-### **3. Download the configuration file & Run below command**
+### **3. Download the configuration file**
 
-```basic
-cd /tmp && mkdir -p /usr/local/etc/openvpn && mv config/* /usr/local/etc/openvpn && chmod +x /etc/openvpn/update-resolv-conf && rm -rf config 
-```
+Move the downloaded .ovpn file to OpenVPN folder
 
 ### **4. Enter your login credentials**
 
@@ -41,29 +39,31 @@ openvpn --config /usr/local/etc/openvpn/ovpn.conf --daemon
 ### **6. Verify that the connection was successful**
  Wait about a minute after running the last command, then run:    
 :::note
-The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**ovpn**.conf you should use command as below.
+The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**roomname**.conf you should use command as below.
 :::
 
 ```basic
-systemctl status openvpn@ovpn
+systemctl status openvpn@roomname
 
 ```
 
-- You should see something like:
+  You should see something like:
 
 ```basic
-openvpn@ovpn.service - OpenVPN connection to ovpn
+openvpn@roomname.service - OpenVPN connection to roomname
   Loaded: loaded (/lib/systemd/system/openvpn@.service; enabled; vendor preset: enabled)
   Active: active (running) since Mon 2017-10-23 07:57:37 CEST; 2h 15min ago
-  Docs: man:openvpn(8)
+  
 
 ```
 
 ### **7. Done**
 
-Congratulations! Your device is now protected behind OVPN and will automatically connect to CloudLAN Room on reboots.
+Congratulations! Your device is now connected to CloudLAN.
+
+---
 
 :::info
-:information_desk_person: **Have you any question which is not answered in this knowledge base? **
-Contact us, We are here to help you. at [hello@simply5.io](mailto:hello@simply5.io) or "chat with support" from our website or inside the app
+:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
+Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

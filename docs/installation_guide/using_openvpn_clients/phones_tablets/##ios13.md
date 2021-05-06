@@ -1,20 +1,17 @@
 ---
 id: ios13
-title: iOS 13
+title: Install OpenVPN on iOS 13
 sidebar_label: iOS 13
 slug: ios13
 ---
 ---
 
-## **Install OpenVPN on iOS 13**
-
-**The method to install OpenVPN on iOS is different on iOS 13 compared to previous versions. Unless you have updated to the latest iOS version, follow [this guide](https://www.notion.so/iOS-12-and-below-85332969cb29480492896105ebcb1e2f) instead.**
 
 ### **1. Download OpenVPN Connect**
 
 The first thing you need to do in order to connect to OVPN is to install [OpenVPN Connect for iOS](ios12_below).
 
-### **2. Download the configuration from cloudlan room**
+### **2. Download the configuration from Cloudlan room**
 Store downloaded config file and credentials in a safe & secured place
 
 ### **3. Open the downloaded configuration file**

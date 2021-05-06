@@ -6,8 +6,7 @@ module.exports = {
     
     { "Host onboarding": ["installation_guide/cloudlan_hosts/hosts_agent_centos", "installation_guide/cloudlan_hosts/hosts_agent_ubuntu", "installation_guide/cloudlan_hosts/host_with_generic_client"] }, 
     
-    { "Using OpenVPN client": ["installation_guide/using_openvpn_clients/openvpn_clients", { "For Computers": ["installation_guide/using_openvpn_clients/computers/centos", "installation_guide/using_openvpn_clients/computers/debian", "installation_guide/using_openvpn_clients/computers/ubuntu", "installation_guide/using_openvpn_clients/computers/raspberrypi", "installation_guide/using_openvpn_clients/computers/freebsd", "installation_guide/using_openvpn_clients/computers/fedora"] }, { "Phones & Tablets": ["installation_guide/using_openvpn_clients/phones_tablets/android", "installation_guide/using_openvpn_clients/phones_tablets/ios13", "installation_guide/using_openvpn_clients/phones_tablets/ios12_below"] }, { "Routers": ["installation_guide/using_openvpn_clients/router_devices/assus_wrt", "installation_guide/using_openvpn_clients/router_devices/edge_routeros"] }, { "Other Devices": ["installation_guide/using_openvpn_clients/other_devices/synologynas", "installation_guide/using_openvpn_clients/other_devices/freenas"] }] }],
-    
+    { "Using OpenVPN client": ["installation_guide/using_openvpn_clients/openvpn_clients", { "Computers": ["installation_guide/using_openvpn_clients/computers/debian", "installation_guide/using_openvpn_clients/computers/raspberrypi", "installation_guide/using_openvpn_clients/computers/freebsd"] }, { "Mobile Devices": ["installation_guide/using_openvpn_clients/phones_tablets/android"]}] }],    
     
     "Referrel Programs": ["referrel_programs/referrel_program"],
     "Help & Support": ["help_support/troubleshooting", {"FAQ's":["help_support/support/product_queries", "help_support/support/purchase_subscription" ]}]
