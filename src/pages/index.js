@@ -72,7 +72,7 @@ const features2 = [
   }, {
     title: "FAQ's",
     imageUrl: 'img/undraw_Faq_re_31cw.svg',
-    href: "docs/help_support/support",
+    href: "docs/help_support/support/product_queries",
   },
   {
     title: "Troubleshooting",
@@ -82,7 +82,7 @@ const features2 = [
   {
     title: "CloudLAN Free Room",
     imageUrl: 'img/undraw_features_overview_jg7a.svg',
-    href: "docs/features/cloudlan_room#cloudlan-free-room",
+    href: "docs/getting_started/setup_cloudlan_room#cloudlan-free-room",
   },
   {
     title: "Invite & Join Room",
@@ -93,7 +93,7 @@ const features2 = [
   {
     title: 'Service Casting',
     imageUrl: 'img/undraw_real-time_sync_o57k.svg',
-    href: "docs/features/cloudlan_service_cast",
+    href: "docs/getting_started/service_cast",
   },
 
 

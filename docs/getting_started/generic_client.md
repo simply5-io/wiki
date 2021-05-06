@@ -6,6 +6,9 @@ slug: generic_client
 
 ---
 ---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 Generic Client support lets you use any OpenVPN protocol supporting VPN client for connecting to CloudLAN room <br />
 
 This feature is useful for platforms which are not yet supported by CloudLAN App and users who are comfortable with 3rd party client. <br />
@@ -16,6 +19,12 @@ This feature is useful for platforms which are not yet supported by CloudLAN App
 - You are member of the room 
 - Room has active subscription
 :::
+
+
+**The following video clip demonstrates how to download a Generic client Config file from your Simply5 Account.**
+<div className = "iframe_container">
+   <video className="responsive-iframe" src={useBaseUrl("videos/Generic_client.mp4")} title="Download Generic client config" autoPlay="true" controls></video>
+</div>
 
 ### Download your device configuration
 - Visit your profile section at [accounts.simply5.io](http://accounts.simply5.io/) 
