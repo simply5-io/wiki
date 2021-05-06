@@ -7,27 +7,39 @@ slug: hosts
 
 ---
 
-Host feature is built for cases where you have an always-on machine/device/VM which is needed to be securely accessble by member of the room.<br /> 
-The adoption process is as simple as running a single command on the server terminal. 
+Host feature is built for cases where you have an always-on Server/Machine/device/VM to be securely accessble by member of the room.<br /> 
+
 
 ### When to use Hosts Feature?
 
-- You want to access a machine behind router/firewalls without any port forwarding config
+- You want to access a machine behind Router/Firewalls without doing any port forwarding config on the router
 - Hide public IP address of the host but still provide access to application running on them to the team
-- Great to setup anywhere access to Raspberry Pi boards
+- Great to setup anywhere access to Raspberry Pi type project boards
 
 :::note Prerequisite
 - Room should be active with a free Host license.
 - Only Room's admin can add Hosts to the room.
-- Admin will be able to manage link casting on the server from CloudLAN app once connected to the room
+- Admin will be able to add Bookmark links of services running on the server 
 - We currently support Ubuntu & CentOS flavors using CloudLAN Host Agent
-- 
 :::
-### **Are you ready to adopt a Hosts?**
 
- > #### Your Free forever room comes with 1 server license, learn how to adopt the servers/hosts
+### How Does Host Feature work?
+When you connect a server to CloudLAN room using Host feature, server is assigned a Device IP & establishes an always-on connection with the room. Members of the room can view all the connected hosts & access services/applications running on those hosts using its Device IP. 
 
-Check installation guides to learn How to onboard a Host.
+### **Ready to adopt a Host?**
+
+ > **Your Free room comes with 1 host license to try out this feature**
+
+*You have 2 methods *
+
+1. **Host agent** - Easy to install application for CentOS & Ubuntu servers which automatically installs necessary drivers & adopts the server using a Adoption code. Host agent also has built-in connect on reboot functionality which keeps the connection persistantly. <br /><br />
+Installation guide for 
+   1.  [**CentOS**](../installation_guide/cloudlan_hosts/hosts_agent_centos.md)
+   2.  [**Ubnutu**](../installation_guide/cloudlan_hosts/hosts_agent_ubuntu.md)
+
+2. [**Generic Clients**](../installation_guide/cloudlan_hosts/generic_clients.md) - For servers running any other linux distributions or Operating systems, Generic Client feature provides you option to use any 3rd party OpenVPN client supported by the OS. 
+   
+<br />
 
 ---
 
