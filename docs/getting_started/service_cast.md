@@ -12,17 +12,19 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## **Introduction**
 **Service casting** feature is built to provide a seamless and simplified way to use your machine as hosting server to improve productivity of the developer and professional teams working remote.
 
-The purpose of this feature is for **development use only**, where you need to quickly showcase your work for someone else to consume
+:::note
+This feature is for **development use only**, where you need to quickly showcase your work for someone else to consume or expose your service as webhook end points
+:::
 
-**Key concepts in Service casting**
+### Key concepts in Service casting
 
-1. **Adding a service** <br />
+1. **Adding a service**
     Add Application, API gateway, Website or Webhook running on your local machine
     - **Name** - This is used to identify what is been casted
     - **Port** & **slug** - The port on your machine the said service is running on, you can also add a slug if needed 
     - Click **Add service** 
     
-2. **Adding a folder** <br />    
+2. **Adding a folder**  
     If you would like to share a files with your team, you can quickly share by following steps
      - Give a **name**
      - Input a free **port** on your machine which will be used to host a temporary FTP server by CloudLAN app
@@ -30,10 +32,11 @@ The purpose of this feature is for **development use only**, where you need to q
 3. **Casting Options** <br />
     Once the services are added, you have following options to start casting
     - **TeamURL -**  If you want to cast this servcie only to your team connected to the room
-    - **PublicURL -** If you want anyone on the internet to access the service, works great when working with Webhooks
+    - **PublicURL -** If you want anyone on the internet to access the service, works great when working with Webhooks, 
 
 :::note 
-Any request on these URL's will be directly forwarded to your local machine through internet NAT
+- Any request on these URL's will be directly forwarded to your local machine through internet NAT
+- **PublicURL** remains static till you remove the cast so you can use this as end point in app developement 
 :::
 
 <br />
