@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_centos
 title: How to Adopt host running CentOS?
-sidebar_label: Adopt CentOS Host
+sidebar_label: CentOS Host
 slug: hosts_agent_centos
 ---
 
@@ -18,7 +18,7 @@ slug: hosts_agent_centos
 
 ### Instructions
 
-The below GIF demonstrates how to adopt ***CentOS machine*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
+The below GIF demonstrates how to adopt ***CentOS machine*** 
 
 ![assets/images/Add__adopt_CentOS_server.gif](assets/images/Add__adopt_CentOS_server.gif)
 

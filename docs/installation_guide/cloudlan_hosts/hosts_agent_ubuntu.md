@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_ubuntu
 title: How to Adopt host running Ubuntu?
-sidebar_label: Adopt Ubuntu Host
+sidebar_label: Ubuntu Host
 slug: hosts_agent_ubuntu
 ---
 
@@ -16,7 +16,7 @@ slug: hosts_agent_ubuntu
 
 ### Instructions
 
-The below Quick GIF demonstrates how to adopt ***Ubuntu machine*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
+The below Quick GIF demonstrates how to adopt ***Ubuntu machine***
 
 ![assets/images/Ubuntu_Server_Adoption.gif](assets/images/Ubuntu_Server_Adoption.gif)
 

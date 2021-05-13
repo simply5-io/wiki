@@ -5,10 +5,9 @@ sidebar_label: Whats New?
 slug: whats_new
 
 ---
-
-
-# Mar 12, 2021
 ---
+
+**Mar 12, 2021**
 
 
 *Since our first launch, many of our subscribers were demanding for a Dedicated IP to their Rooms. We are sure that this feature will make CloudLAN rooms more personal & secure.*
@@ -17,14 +16,15 @@ slug: whats_new
 *With CloudLAN v1.1 release, subscribers will now be able to achieve more security & flexibility,  can connect to their virtual office/CloudLAN Room from any device that supports OpenVPN Client, with improved Hosts adding experience and many more.*
 
 
-### Application updated to v1.1
+## v1.1 Release
 
 Simply5 CloudLAN Introducing new features and enhancements to make a powerful tool for remote teams.
 
 
-## With our most recent updates, you can:
+**With our most recent updates, you can:**
+
 ----
-### 1. *Now connect any device that supports generic OpenVPN Client with improved Host adding experience.*
+### 1. Now connect any device that supports generic OpenVPN Client with improved Host adding experience.*
 
 ![assets/images/download_ovp_file.gif](assets/images/download_ovp_file.gif)
 

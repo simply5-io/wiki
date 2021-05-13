@@ -32,7 +32,7 @@ echo "**CHANGE TO YOUR PASSWORD**" >> /etc/openvpn/credentials
 ### **5. Start OpenVPN and see that everything works**
 
 ```basic
-openvpn --config /etc/openvpn/ovpn.conf --daemon
+openvpn --config /etc/openvpn/clroom.conf --daemon
 ```
 
 ### **6. Verify that the connection was successful**
@@ -40,18 +40,18 @@ openvpn --config /etc/openvpn/ovpn.conf --daemon
 Wait for about a minute after running the last command, then run:
 
 :::note
-The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**ovpn**.conf you should use command as below.
+The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**clroom**.conf you should use command as below.
 :::
 
 ```basic
-systemctl status openvpn@ovpn
+systemctl status openvpn@clroom
 
 ```
 
 You should see something like:
 
 ```basic
-openvpn@ovpn.service - OpenVPN connection to ovpn
+openvpn@clroom.service - OpenVPN connection to clroom
   Loaded: loaded (/lib/systemd/system/openvpn@.service; enabled; vendor preset: enabled)
   Active: active (running) since Mon 2017-10-23 07:57:37 CEST; 2h 15min ago
   Docs: man:openvpn(8)
@@ -63,7 +63,7 @@ Congratulations! Now your Debian will connect to CloudLAN Room automatically whe
 
 :::important Quick Commands
 ```basic
-1. systemctl start openvpn    # Starts OpenVPN and connects to OVPN
+1. systemctl start openvpn    # Starts OpenVPN and connects to clroom
 2. systemctl stop openvpn     # Stops OpenVPN
 3. systemctl restart openvpn  # Restarts OpenVPN
 4. systemctl status openvpn   # Shows status for OpenVPN

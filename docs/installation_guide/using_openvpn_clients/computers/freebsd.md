@@ -33,24 +33,24 @@ echo "**CHANGE TO YOUR PASSWORD**" >> /usr/local/etc/openvpn/credentials
 ### **5. Start OpenVPN and see that everything works**
 
 ```basic
-openvpn --config /usr/local/etc/openvpn/ovpn.conf --daemon
+openvpn --config /usr/local/etc/openvpn/clroom.conf --daemon
 ```
 
 ### **6. Verify that the connection was successful**
  Wait about a minute after running the last command, then run:    
 :::note
-The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**roomname**.conf you should use command as below.
+The service you should check is openvpn@NAME where NAME is the name of your configuration file (without the **".conf"**). So if your openvpn configuration file is /etc/openvpn/**clroom**.conf you should use command as below.
 :::
 
 ```basic
-systemctl status openvpn@roomname
+systemctl status openvpn@clroom
 
 ```
 
   You should see something like:
 
 ```basic
-openvpn@roomname.service - OpenVPN connection to roomname
+openvpn@clroom.service - OpenVPN connection to roomname
   Loaded: loaded (/lib/systemd/system/openvpn@.service; enabled; vendor preset: enabled)
   Active: active (running) since Mon 2017-10-23 07:57:37 CEST; 2h 15min ago
   
