@@ -25,6 +25,7 @@ The below GIF demonstrates how to adopt ***MacOS machine***
 <div className = "iframe_container">
     <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt_mac.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
 </div>
+
 - Install the MacOS Client on Host machine
 - On your personal device, Go to ***Host*** tab on CloudLAN app
 - Click on **Add host**
