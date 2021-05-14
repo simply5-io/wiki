@@ -6,6 +6,8 @@ slug: host_agent_windows
 ---
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 Host Agent is integrated into CloudLAN Desktop clients. Go to [simply5.io/download](https://www.simply5.io/download) & download the Windows Desktop app. 
 
 :::note Prerequisite
@@ -18,9 +20,9 @@ Host Agent is integrated into CloudLAN Desktop clients. Go to [simply5.io/downlo
 ### Instructions
 
 The below GIF demonstrates how to adopt ***Windows machine*** 
-:::caution
-**--------- GIF needed  User flow & Adoption flow 2 videos ----------**
-:::
+<div className = "iframe_container">
+    <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+</div>
 
 - Install the Windows Client on Host machine
 - On your personal device, Go to ***Host*** tab on CloudLAN app
