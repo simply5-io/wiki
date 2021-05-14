@@ -1,6 +1,6 @@
 ---
 id: openvpn_clients
-title: OpenVPN Clients
+title: Any OpenVPN Clients
 sidebar_label: Introduction
 slug: openvpn_clients
 ---
