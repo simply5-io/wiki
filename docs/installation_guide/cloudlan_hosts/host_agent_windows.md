@@ -21,7 +21,7 @@ Host Agent is integrated into CloudLAN Desktop clients. Go to [simply5.io/downlo
 
 The below GIF demonstrates how to adopt ***Windows machine*** 
 <div className = "iframe_container">
-    <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+    <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt_windows.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
 </div>
 
 - Install the Windows Client on Host machine
