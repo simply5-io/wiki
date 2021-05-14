@@ -27,8 +27,10 @@ Host feature is built for cases where you have an always-on Server/Machine/devic
 Installation guide for 
    1.  [**CentOS**](../installation_guide/cloudlan_hosts/hosts_agent_centos.md)
    2.  [**Ubnutu**](../installation_guide/cloudlan_hosts/hosts_agent_ubuntu.md)
+   3.  [**Windows**](../installation_guide/cloudlan_hosts/host_agent_windows.md)
+   4.  [**MacOS**](../installation_guide/cloudlan_hosts/host_agent_macos.md)
 
-2. [**Generic Clients**](../installation_guide/cloudlan_hosts/generic_clients.md) - For servers running any other linux distributions or Operating systems, Generic Client feature provides you option to use any 3rd party OpenVPN client supported by the OS. 
+1. [**Generic Clients**](../installation_guide/cloudlan_hosts/generic_clients.md) - For servers running any other linux distributions or Operating systems, Generic Client feature provides you option to use any 3rd party OpenVPN client supported by the OS. 
 
 ### When to use Hosts Feature?
 
