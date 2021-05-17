@@ -67,7 +67,11 @@ Once your services/apps are running on your localhost, you can start casting tho
   <video className="responsive-iframe" src={useBaseUrl("videos/AddigFolderCast.mp4")} title="Sharing Folders" autoPlay="true" controls></video>
 </div>
 
-#### **Folder sharing**
+:::note
+This feature will run a FTP server on your machine, make sure you accept any OS firewall prompt to run a Node app. If the service is still not accessible troubleshoot by **temporarily** disabling the firewall
+:::
+
+### Folder sharing
 
 1. Launch CloudLAN app and connect to the room.
 2. Give a name
