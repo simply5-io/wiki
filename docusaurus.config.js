@@ -29,6 +29,11 @@ module.exports = {
           label: 'Documentation',
           position: 'right',
         },
+        {
+          to: 'docs/tutorials/tutorial',
+          label: 'Tutorials',
+          position: 'right',
+        },
         { search: true },
         //TODO:Update Blog integration
         // { to: 'blog', label: 'Blog', position: 'right' },
@@ -73,7 +78,8 @@ module.exports = {
           editUrl:
             'https://github.com/simply5-io/wiki/edit/master/',
         },
-        // blog: {
+        blog: false,
+        // {
         //   showReadingTime: true,
         //   // Please change this to your repo.
         //   editUrl:
