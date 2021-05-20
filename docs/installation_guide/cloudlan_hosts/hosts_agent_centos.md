@@ -79,6 +79,6 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 
 ---
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

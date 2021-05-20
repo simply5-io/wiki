@@ -20,7 +20,12 @@ slug: tutorial
     <iframe width="420" height="240" src="https://www.youtube.com/embed/V9YDZheTVx4?list=PLY6jU1OcuwydD1g2_mPerqHxGPIN9O_XB" title="Members Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 </div>
 
+---
 
+:::info
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+:::
 
 
 

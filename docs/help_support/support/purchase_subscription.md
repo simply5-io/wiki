@@ -31,6 +31,6 @@ Once redeemed from your referral tab, the credits are transferred to your Simply
 <br />
 ---
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::
