@@ -5,6 +5,8 @@ sidebar_label: Purchase & Subscription
 slug: purchase_subscription
 ---
 
+### My Free room is expired, How to re-activate it?
+Free room gets expired if it is not used regularly. You can revive it by visiting the room from the app & initiating "Re-subscribe".
 
 ### Do I need a credit/debit card for free room subscription?
 
