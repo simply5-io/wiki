@@ -34,7 +34,7 @@ module.exports = {
           label: 'Tutorials',
           position: 'right',
         },
-        { search: true },
+        // { search: true },
         //TODO:Update Blog integration
         // { to: 'blog', label: 'Blog', position: 'right' },
       ],

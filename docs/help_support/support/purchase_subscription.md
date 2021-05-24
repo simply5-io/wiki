@@ -5,8 +5,13 @@ sidebar_label: Purchase & Subscription
 slug: purchase_subscription
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ### My Free room is expired, How to re-activate it?
 Free room gets expired if it is not used regularly. You can revive it by visiting the room from the app & initiating "Re-subscribe".
+<div className = "iframe_container">
+    <video className="responsive-iframe" src={useBaseUrl("videos/howtoresubscribe.mp4")} title="How to close the app" autoPlay="true" controls></video>
+</div>
 
 ### Do I need a credit/debit card for free room subscription?
 
