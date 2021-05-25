@@ -46,6 +46,6 @@ CloudLAN provide various guides to walk you through the setup processes, otherwi
 
 ---
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_ubuntu
 title: How to Adopt host running Ubuntu?
-sidebar_label: Adopt Ubuntu Host
+sidebar_label: Ubuntu Host
 slug: hosts_agent_ubuntu
 ---
 
@@ -16,7 +16,7 @@ slug: hosts_agent_ubuntu
 
 ### Instructions
 
-The below Quick GIF demonstrates how to adopt ***Ubuntu machine*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
+The below Quick GIF demonstrates how to adopt ***Ubuntu machine***
 
 ![assets/images/Ubuntu_Server_Adoption.gif](assets/images/Ubuntu_Server_Adoption.gif)
 
@@ -26,7 +26,7 @@ The below Quick GIF demonstrates how to adopt ***Ubuntu machine*** and ***Servic
 - Select Ubuntu from OS dropdown & the relevant installation command is copied to your clipboard
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/clan-server; chmod +x ./clan-server; sudo ./clan-server
+wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into server terminal and execute it to install Host agent
@@ -68,7 +68,7 @@ ifconfig
 - Execute below command in the Machine terminal to run the uninstaller
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh[;](https://cdn.simply5.io/cloudlan/apps/unistall-clan-server.sh;) chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/unistall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 ![assets/images/Ubuntu_Server_Uninstall.gif](assets/images/Ubuntu_Server_Uninstall.gif)
@@ -80,6 +80,6 @@ wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh[;](https://cd
 ---
 
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_centos
 title: How to Adopt host running CentOS?
-sidebar_label: Adopt CentOS Host
+sidebar_label: CentOS Host
 slug: hosts_agent_centos
 ---
 
@@ -18,7 +18,7 @@ slug: hosts_agent_centos
 
 ### Instructions
 
-The below GIF demonstrates how to adopt ***CentOS machine*** and ***Service casting*** from hosts without exposing its actual IP address using CloudLAN.
+The below GIF demonstrates how to adopt ***CentOS machine*** 
 
 ![assets/images/Add__adopt_CentOS_server.gif](assets/images/Add__adopt_CentOS_server.gif)
 
@@ -28,7 +28,7 @@ The below GIF demonstrates how to adopt ***CentOS machine*** and ***Service cast
 - Select CentOS from OS dropdown & the relevant installation command is copied to your clipboard
 
 ```bash
-sudo yum -y install wget; wgpet [https://cdn.simply5.io/cloudlan/apps/clan-server;](https://cdn.simply5.io/cloudlan/apps/clan-server;) chmod +x ./clan-server; sudo ./clan-server
+sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
@@ -70,7 +70,7 @@ ifconfig
 - Execute below command in the server terminal to run the uninstaller
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
@@ -79,6 +79,6 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 
 ---
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::
