@@ -26,7 +26,7 @@ The below Quick GIF demonstrates how to adopt ***Ubuntu machine***
 - Select Ubuntu from OS dropdown & the relevant installation command is copied to your clipboard
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/clan-server; chmod +x ./clan-server; sudo ./clan-server
+wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into server terminal and execute it to install Host agent
@@ -68,7 +68,7 @@ ifconfig
 - Execute below command in the Machine terminal to run the uninstaller
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh[;](https://cdn.simply5.io/cloudlan/apps/unistall-clan-server.sh;) chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/unistall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 ![assets/images/Ubuntu_Server_Uninstall.gif](assets/images/Ubuntu_Server_Uninstall.gif)

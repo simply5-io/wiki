@@ -28,7 +28,7 @@ The below GIF demonstrates how to adopt ***CentOS machine***
 - Select CentOS from OS dropdown & the relevant installation command is copied to your clipboard
 
 ```bash
-sudo yum -y install wget; wgpet [https://cdn.simply5.io/cloudlan/apps/clan-server;](https://cdn.simply5.io/cloudlan/apps/clan-server;) chmod +x ./clan-server; sudo ./clan-server
+sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
@@ -70,7 +70,7 @@ ifconfig
 - Execute below command in the server terminal to run the uninstaller
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
