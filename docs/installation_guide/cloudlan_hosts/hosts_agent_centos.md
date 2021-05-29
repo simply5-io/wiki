@@ -75,6 +75,10 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
 
+:::note 
+Reboot the machine to clear the background service 
+:::
+
 ![assets/images/Remove_CentOS_server.gif](assets/images/Remove_CentOS_server.gif)
 
 ---
