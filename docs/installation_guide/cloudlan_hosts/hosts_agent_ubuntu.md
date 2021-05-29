@@ -68,7 +68,7 @@ ifconfig
 - Execute below command in the Machine terminal to run the uninstaller
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/unistall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 ![assets/images/Ubuntu_Server_Uninstall.gif](assets/images/Ubuntu_Server_Uninstall.gif)
