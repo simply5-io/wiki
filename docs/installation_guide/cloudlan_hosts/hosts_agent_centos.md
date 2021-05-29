@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_centos
 title: How to Adopt host running CentOS?
-sidebar_label: CentOS Host
+sidebar_label: CentOS
 slug: hosts_agent_centos
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: host_agent_macos
 title: How to Adopt host running MacOS?
-sidebar_label: MacOS Host
+sidebar_label: MacOS 
 slug: host_agent_macos
 ---
 ---

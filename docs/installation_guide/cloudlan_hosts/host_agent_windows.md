@@ -1,7 +1,7 @@
 ---
 id: host_agent_windows
 title: How to Adopt host running Windows?
-sidebar_label: Windows Host
+sidebar_label: Windows
 slug: host_agent_windows
 ---
 ---
