@@ -23,7 +23,7 @@ The below Quick GIF demonstrates how to adopt ***Ubuntu machine***
 - Go to ***Host*** tab on CloudLAN app
 - Click on **Add Host**
 - Give it a name, Select ***Host agent*** & click **Continue**
-- Select Ubuntu from OS dropdown & the relevant installation command is copied to your clipboard
+- Select Ubuntu from OS dropdown & copy the installation command 
 
 ```bash
 wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
@@ -33,7 +33,7 @@ wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; ch
 - Copy **One time code** from the CloudLAN App
 - Paste **One time code** on your server terminal when prompted.<br /> (One time Code will be valid for only 10 minutes, you can regenerate if it expires )
 - Agent will install necessary drivers & connect the machine to CloudLAN room
-- Machine will be seen online from CloudLAN app and now you can cast services running on Server using **add service** button.
+- Machine will be seen online from CloudLAN app and now you can add services running on Server using **add service** button.
 
 **Quick troubleshoot** : If there are any error at the time of adoption please follow uninstall steps below & try readopting once again 
 
