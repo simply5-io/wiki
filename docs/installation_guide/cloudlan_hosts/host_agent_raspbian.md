@@ -71,7 +71,7 @@ ifconfig
 - Execute below command in the server terminal to run the uninstaller
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
@@ -80,7 +80,7 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 Reboot the machine to clear the background service 
 :::
 
-![assets/images/Remove_CentOS_server.gif](assets/images/Remove_CentOS_server.gif)
+![assets/images/Remove_Ubuntu_Server_.gif](assets/images/Remove_Ubuntu_Server_.gif)
 
 ---
 :::info
