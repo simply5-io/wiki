@@ -7,6 +7,7 @@ slug: hosts_agent_raspbian
 
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::note Prerequisite
 - You are the admin of the room
@@ -20,7 +21,9 @@ slug: hosts_agent_raspbian
 
 The below GIF demonstrates how to adopt ***Raspbian OS machine*** 
 
-
+<div className = "iframe_container">
+    <video className="responsive-iframe" src={useBaseUrl("videos/howtoRPI.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+</div>
 
 
 - Go to ***Host*** tab on CloudLAN app
