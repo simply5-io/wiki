@@ -32,7 +32,7 @@ The below GIF demonstrates how to adopt ***Raspbian OS machine***
 - Select **Raspbian OS** from OS dropdown & copy the installation command 
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/clan-server-rpi --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
+wget https://cdn.simply5.io/cloudlan/apps/clan-server-rpi ; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
@@ -74,7 +74,7 @@ ifconfig
 - Execute below command in the server terminal to run the uninstaller
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
