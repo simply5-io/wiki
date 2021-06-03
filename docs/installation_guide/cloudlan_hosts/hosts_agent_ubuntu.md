@@ -1,7 +1,7 @@
 ---
 id: hosts_agent_ubuntu
 title: How to Adopt host running Ubuntu?
-sidebar_label: Ubuntu Host
+sidebar_label: Ubuntu 
 slug: hosts_agent_ubuntu
 ---
 
@@ -23,17 +23,17 @@ The below Quick GIF demonstrates how to adopt ***Ubuntu machine***
 - Go to ***Host*** tab on CloudLAN app
 - Click on **Add Host**
 - Give it a name, Select ***Host agent*** & click **Continue**
-- Select Ubuntu from OS dropdown & the relevant installation command is copied to your clipboard
+- Select Ubuntu from OS dropdown & copy the installation command 
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/clan-server --no-check-certificate; chmod +x ./clan-server; sudo ./clan-server
+wget https://cdn.simply5.io/cloudlan/apps/clan-server ; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into server terminal and execute it to install Host agent
 - Copy **One time code** from the CloudLAN App
 - Paste **One time code** on your server terminal when prompted.<br /> (One time Code will be valid for only 10 minutes, you can regenerate if it expires )
 - Agent will install necessary drivers & connect the machine to CloudLAN room
-- Machine will be seen online from CloudLAN app and now you can cast services running on Server using **add service** button.
+- Machine will be seen online from CloudLAN app and now you can add services running on Server using **add service** button.
 
 **Quick troubleshoot** : If there are any error at the time of adoption please follow uninstall steps below & try readopting once again 
 
@@ -68,7 +68,7 @@ ifconfig
 - Execute below command in the Machine terminal to run the uninstaller
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh --no-check-certificate; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 ![assets/images/Ubuntu_Server_Uninstall.gif](assets/images/Ubuntu_Server_Uninstall.gif)

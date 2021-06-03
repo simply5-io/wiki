@@ -1,34 +1,38 @@
 ---
-id: hosts_agent_centos
-title: How to Adopt host running CentOS?
-sidebar_label: CentOS
-slug: hosts_agent_centos
+id: hosts_agent_raspbian
+title: How to Adopt host running Raspbian OS?
+sidebar_label: Raspbian
+slug: hosts_agent_raspbian
 ---
 
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::note Prerequisite
 - You are the admin of the room
 - You are connected to the Room
 - Have access to the host you are trying to adopt
 - Room has free host license
-- CentOS 7+
+- Raspberry Pi running Raspbian OS
 :::
 
 ### Instructions
 
-The below GIF demonstrates how to adopt ***CentOS machine*** 
+The below GIF demonstrates how to adopt ***Raspbian OS machine*** 
 
-![assets/images/Add__adopt_CentOS_server.gif](assets/images/Add__adopt_CentOS_server.gif)
+<div className = "iframe_container">
+    <video className="responsive-iframe" src={useBaseUrl("videos/howtoRPI.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+</div>
+
 
 - Go to ***Host*** tab on CloudLAN app
 - Click on **Add host**
 - Give it a name, Select ***Host agent*** & click **Continue**
-- Select CentOS from OS dropdown & copy the installation command 
+- Select **Raspbian OS** from OS dropdown & copy the installation command 
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/clan-server ; chmod +x ./clan-server; sudo ./clan-server
+wget https://cdn.simply5.io/cloudlan/apps/clan-server-rpi ; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
@@ -50,7 +54,7 @@ sudo systemctl status clan
 Stop Host agent & temporarily disconnect from the room 
 
 ```bash
-sudo systemctl stop clan; sudo kill openvpn
+sudo systemctl stop clan
 ```
 
 Start Host agent & reconnect to the room
@@ -59,18 +63,18 @@ Start Host agent & reconnect to the room
 sudo systemctl start clan
 ```
 
-Check IP adaptor status 
+Check IP adaptors status 
 
 ```bash
 ifconfig
 ```
 
-## How to Remove Host agent in CentOS?
+## How to Remove Host agent in Raspbian OS?
 
 - Execute below command in the server terminal to run the uninstaller
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
+wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./uninstall-clan-server.sh; sudo ./uninstall-clan-server.sh
 ```
 
 - Once your server is offline you can remove the host from your CloudLAN room using remove button which will free your Host license
@@ -79,7 +83,7 @@ sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/uninstall-cl
 Reboot the machine to clear the background service 
 :::
 
-![assets/images/Remove_CentOS_server.gif](assets/images/Remove_CentOS_server.gif)
+![assets/images/Remove_Ubuntu_Server_.gif](assets/images/Remove_Ubuntu_Server_.gif)
 
 ---
 :::info

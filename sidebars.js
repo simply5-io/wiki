@@ -4,7 +4,7 @@ module.exports = {
     
     "Installation guide": [{"User apps" :["installation_guide/client_apps/cloudlan_for_windows", "installation_guide/client_apps/cloudlan_for_macos", "installation_guide/client_apps/cloudlan_for_linux", 'installation_guide/client_apps/generic_client'] }, 
     
-    { "Host onboarding": ["installation_guide/cloudlan_hosts/host_agent_windows","installation_guide/cloudlan_hosts/host_agent_macos", "installation_guide/cloudlan_hosts/hosts_agent_centos", "installation_guide/cloudlan_hosts/hosts_agent_ubuntu", "installation_guide/cloudlan_hosts/host_with_generic_client"] }, 
+    { "Host onboarding": ["installation_guide/cloudlan_hosts/host_agent_windows","installation_guide/cloudlan_hosts/host_agent_macos", "installation_guide/cloudlan_hosts/hosts_agent_raspbian","installation_guide/cloudlan_hosts/hosts_agent_centos", "installation_guide/cloudlan_hosts/hosts_agent_ubuntu", "installation_guide/cloudlan_hosts/host_with_generic_client"] }, 
     
     { "Using OpenVPN client": ["installation_guide/using_openvpn_clients/openvpn_clients", { "Computers": ["installation_guide/using_openvpn_clients/computers/debian", "installation_guide/using_openvpn_clients/computers/raspberrypi", "installation_guide/using_openvpn_clients/computers/freebsd"] }, { "Mobile Devices": ["installation_guide/using_openvpn_clients/phones_tablets/android"]}] }],    
     
