@@ -31,7 +31,7 @@ Host feature is built for cases where you have an always-on Server/Machine/devic
    4.  [**MacOS**](../installation_guide/cloudlan_hosts/host_agent_macos.md)
    5.  [**Raspberry Pi**](../installation_guide/cloudlan_hosts/host_agent_raspbian.md)
 
-2. [**Generic Clients**](../installation_guide/cloudlan_hosts/generic_clients.md) - For servers running any other linux distributions or Operating systems, Generic Client feature provides you option to use any 3rd party OpenVPN client supported by the OS.
+2. [**Generic Clients**](./generic_client.md) - For servers running any other linux distributions or Operating systems, Generic Client feature provides you option to use any 3rd party OpenVPN client supported by the OS.
 
 ### When to use Hosts Feature?
 
