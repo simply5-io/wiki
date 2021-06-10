@@ -29,12 +29,12 @@ This full featured room should be sufficient for trying out CloudLAN with your t
 
 <br />
 
-`You have 2 ways of connection to a CloudLAN room, TeamVPN ON or OFF.` <br /><br />
+***You have 2 ways of connection to a CloudLAN room, TeamVPN ON or OFF.*** <br /><br />
 **Connect without TeamVPN (TeamVPN OFF)** <br />
- All your regular internet requests will be sent through your local internet connection. Use this when you are connected to a trusted WiFi network or you dont need to access any services only accessible through TeamVPN IP. This helps in better latency on VoIP or Web conferencing. <br /> 
+ Also known as `Split-Tunnelling`, All your regular internet requests will be sent through your local internet connection. Use this when you are connected to a trusted WiFi network or you dont need to access any services only accessible through TeamVPN IP. This helps in better latency on VoIP or Web conferencing. <br /> 
 
 **Connect with TeamVPN (TeamVPN ON)** <br />
-All your internet traffic is securely routed through your CloudLAN room. This is useful when you are using an unknown WIFi network or want to access servers protected by firewall rules to allow only connection from whitelisted TeamVPN IP. <br /> Check our article on [securing your cloud resources with TeamVPN](https://docs.simply5.io/tag/secure-you-cloud-resources/). <br /><br /> 
+All your internet traffic is securely routed through your CloudLAN room. This is useful when you are using an unknown WIFi network or want to access servers protected by firewall rules to allow only connection from whitelisted TeamVPN IP. <br /> Check our article on [securing your cloud resources with TeamVPN]. <br /><br /> 
 
 
 

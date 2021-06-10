@@ -32,7 +32,7 @@ The below GIF demonstrates how to adopt ***Raspbian OS machine***
 - Select **Raspbian OS** from OS dropdown & copy the installation command 
 
 ```bash
-wget https://cdn.simply5.io/cloudlan/apps/clan-server-rpi ; chmod +x ./clan-server; sudo ./clan-server
+wget -O clan-server https://cdn.simply5.io/cloudlan/apps/clan-server-rpi ; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
