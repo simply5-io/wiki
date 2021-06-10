@@ -1,7 +1,7 @@
 ---
-id: openvpn_clients
+id: generic_client
 title: Any OpenVPN Clients
-sidebar_label: Introduction
+sidebar_label: OpenVPN Clients
 slug: openvpn_clients
 ---
 
@@ -21,8 +21,8 @@ Generic Client feature for User or Host lets you use any 3rd party OpenVPN clien
 
 ### Instructions
 
-- [**Personal Device of User**](../client_apps/generic_client.md)
-- [**Server hosting company resources**](../cloudlan_hosts/generic_clients.md)
+- [**Personal Device of User**](../installation_guide/client_apps/user_generic_client.md)
+- [**Server hosting company resources**](../installation_guide/cloudlan_hosts/host_with_generic_client.md)
 
 ---
 

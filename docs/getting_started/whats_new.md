@@ -9,14 +9,14 @@ slug: whats_new
 
 import useBaseUrl from '@docusaurus/useBaseUrl'; 
 
-## **v1.2 -  May 14, 2021**
+## **v1.2 -  June 12, 2021**
 ---
 
 
 ### 1. Host adoption from desktop clients
 <div className = "iframe_container">
     <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt_windows.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
-</div> 
+</div> <br />
 
 Now you can use CloudLAN desktop clients to connect non-personal devices using an integrated [Host-agent app](./hosts_intro.md). Super simple onboarding for Windows & Mac machines so all the members can securely access the device remotely over CloudLAN Device IP
 
@@ -30,7 +30,7 @@ Now you can use CloudLAN desktop clients to connect non-personal devices using a
 
 #### 1. OpenVPN client Support
 
-[Generic Client](../installation_guide/using_openvpn_clients/openvpn_clients.md) support lets you use any OpenVPN protocol supporting client for connecting [Users](../installation_guide/client_apps/generic_client.md) & [Hosts](../installation_guide/cloudlan_hosts/generic_clients.md) to your CloudLAN room.
+[Generic Client](../getting_started/generic_client.md) support lets you use any OpenVPN protocol supporting client for connecting [Users](../installation_guide/client_apps/user_generic_client.md) & [Hosts](../installation_guide/cloudlan_hosts/host_with_generic_client.md) to your CloudLAN room.
 
 #### 2. Static PublicURL
 

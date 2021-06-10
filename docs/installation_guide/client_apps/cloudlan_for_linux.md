@@ -13,7 +13,7 @@ slug: cloudlan_for_linux
 ### ** Coming soon!... **
 
 
-Untill then, you can still connect to the room using [**Generic Client**](/installation_guide/client_apps/generic_client.md) 
+Untill then, you can still connect to the room using [**Generic Client**](../../getting_started/generic_client.md) 
 
 
 :::
