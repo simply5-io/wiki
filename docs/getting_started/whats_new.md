@@ -26,6 +26,20 @@ Now you can use CloudLAN desktop clients to connect non-personal devices using a
 
 [Bookmark](./bookmark.md) your servers and important links, making them centrally accessible by all members of CloudLAN room. No more digging through chats & email for the latest link of application in deployments.
 
+### 3. New Raspberry Pi Host agent
+
+[Connect Raspberry Pi](../installation_guide/cloudlan_hosts/host_agent_raspbian.md) board to your CloudLAN room in 2 commands, Access your project from anywhere
+
+<div className = "iframe_container">
+    <video className="responsive-iframe" src={useBaseUrl("videos/howtoRPI.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+</div>
+
+
+GIF demonstrates adopting a Raspberry Pi host to CloudLAN room
+
+### Now Save more with Yearly plans
+
+Check out the new plans & start saving more with annual subscription.
 ### **3. Other Enhancements** ⚙ 
 
 #### 1. OpenVPN client Support
