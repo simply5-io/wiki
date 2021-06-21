@@ -15,7 +15,7 @@ module.exports = {
         },
       ],
 
-    "Referrel Programs": ["referrel_programs/referrel_program"],
+    "Referral Programs": ["referrel_programs/referrel_program"],
     "Help & Support": ["help_support/troubleshooting", { "FAQ's": ["help_support/support/product_queries", "help_support/support/purchase_subscription"] }]
   },
 };
