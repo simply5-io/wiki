@@ -5,6 +5,7 @@ sidebar_label: Purchase & Subscription
 slug: purchase_subscription
 ---
 
+---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ### My Free room is expired, How to re-activate it?
