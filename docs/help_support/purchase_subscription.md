@@ -18,7 +18,7 @@ Free room gets expired if it is not used regularly. You can revive it by visitin
 
 ### Do I need a credit/debit card for free room subscription?
 
-No, Free room is allocated to you on first app login, without a credit cards.
+No, Free room is allocated to you on first app login, without any payment details required.
 
 ---
 ### What are the payment methods I can use to subscribe?
@@ -27,14 +27,14 @@ We use Stripe to process our payments, You can use all types of credit cards to 
 
 ---
 
-### I am not getting error at 2FA page?
+### I am getting error at 2FA step while creating a new subscription?
 
  Cards from some issuing banks are not completely integrated with Stripe 2FA authentication flow, so you may see the following message & transaction will fail when trying to subscribe from the app.
 
  ![Bank 2FA issue](assets/otp.png)
 
 In this case, you will need to first [**Add a card through the Billing section**](http://y5.ai/usercards) on your account profile page. <br />
-Once added you can subscribe to CloudLAN room from the app using the added card.
+Once added, you can subscribe to CloudLAN room from the app using the added card.
 
 ---
 ### Are my card details safe with Simply5 CloudLAN?
