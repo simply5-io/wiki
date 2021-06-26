@@ -1,15 +1,15 @@
 ---
 id: referrel_program
-title: Referral Program
-sidebar_label: Referral Program
-slug: referral_program
+title: Referrel Program
+sidebar_label: Referrel Program
+slug: referrel_program
 ---
 
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-## Earn referral credits
+## Earn referrel credits
 Access your referral program stats @ [https://accounts.simply5.io/account?page=referral](https://accounts.simply5.io/account?page=referral)
 
 **CloudLAN** offers an easy way to earn referral credits introducing new users to CloudLAN

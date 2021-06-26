@@ -14,7 +14,8 @@ module.exports = {
             }]
         },
       ],
-    "Referral Programs": ["referrel_programs/referrel_program"],
-    "Help & Support": ["help_support/troubleshooting", "help_support/purchase_subscription", {"FAQ's":["help_support/support/product_queries"]}]
+
+    "Referrel Programs": ["referrel_programs/referrel_program"],
+    "Help & Support": ["help_support/troubleshooting", "help_support/purchase_subscription", "help_support/quicktips", {"FAQ's":["help_support/support/product_queries"]}]
   },
 };

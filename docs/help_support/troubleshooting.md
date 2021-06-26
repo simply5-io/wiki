@@ -19,6 +19,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 </div>
 <br />
 
+---
+
 ## 🛠 Troubleshooting connection issues
 
 
