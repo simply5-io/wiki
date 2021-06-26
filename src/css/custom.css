@@ -84,10 +84,17 @@ article iframe {
   .menu--responsive .menu__button {
     bottom: 2rem;
     display: list-item;
-    left: 2rem;
+    left: 2rem;   
     z-index: var(--ifm-z-index-fixed);
   }
+  .button--secondary:not(.button--outline){
+    --ifm-button-background-color: var(--ifm-color-content-secondary);
+    --ifm-button-border-color:var(--ifm-color-content-secondary); 
   }
+  .button.button--secondary {
+    color: var(--ifm-color-content-inverse);
+  } 
+  }  
   /* default for custom types */
 
 
