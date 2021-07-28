@@ -64,7 +64,7 @@ Below steps will helps in enabling **two-factor authentication**.
 
 
 ## How does 2-FA works?
- 1. On sucessfull immidiate login 2-FA will prompt for 2FA code.
+ 1. On immidiate of sucessfull login 2-FA will prompt for 2FA code.
  2. Enter a Valid 2FA Code to get access to your account.
  3. Once used code can not be use for next login.
 
