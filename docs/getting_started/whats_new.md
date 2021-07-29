@@ -52,7 +52,7 @@ Now subscribe to CloudLAN through WireTransfer & other offline payment methods. 
 <div align="center">
 <img src="https://cdn.simply5.io/public_assets/1.3/affiliate.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
-We are excited to introduce an affiliate program for CloudLAN. If you like the service and think others will too, feel free to promote it anywhere you like. And if people sign up through your link, you’ll earn a recurring commission upto 25% each month. Please join here if you are up for it.
+We are excited to introduce an affiliate program for CloudLAN. If you are a IT consultant & like CloudLAN service and think your customers will too, feel free to promote it. And if users sign up through your link, you’ll earn a recurring commission upto 25% each month. Click here to apply for Affiliate program 
 
 ### 6. Integration Guides Launch
 <div align="center">
@@ -62,7 +62,9 @@ Now it's super easy to integrate your business systems with CloudLAN. Ensure you
 
 ### 7. Other Enhancements ⚙
 
-Change the default email of the user account by adding a new email & marking it as default. This will be useful to transfer the ownership rights of company CloudLAN rooms to new team member easily.
+- **Transfer Account Ownership** - By changing the default email of the user account, ownership of company CloudLAN rooms can be trasnfered to new team member easily.
+- **Auto-Connect** - We have improved the background connection process to app recovers from fluctuations in internet connectivity.
+  
 
 
 ---
@@ -95,10 +97,9 @@ Now you can use CloudLAN desktop clients to connect non-personal devices using a
 
 GIF demonstrates adopting a Raspberry Pi host to CloudLAN room
 
-### Now Save more with Yearly plans
-
+### 4. Now Save more with Yearly plans
 Check out the new plans & start saving more with annual subscription.
-### 3. Other Enhancements ⚙ 
+### 5. Other Enhancements ⚙ 
 
 #### 1. OpenVPN client Support
 
