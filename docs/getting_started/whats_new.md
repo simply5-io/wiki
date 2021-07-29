@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## **v1.3 -  July 30, 2021 | Security  🔐**
 ---
-### **1. New Solo Plan 🎉**
+### 1. New Solo Plan 🎉
    The solo plan offers the same excellent level of service and quality as our regular plans, just at a more affordable rate. 
 <div float="left" >
     <div align="center">
@@ -19,7 +19,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
     </div>
 </div> 
 
-### **2. Stronger Encryption**
+### 2. Stronger Encryption
 <div align="middle">
 <img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="130" align="middle" text-align="left"  />
 </div>
@@ -27,7 +27,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
  
  
 
-### **3. Two-Factor-Authentication**
+### 3. Two-Factor-Authentication
 
  <div align="middle">
     <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto" width="200" align="middle" />   
@@ -36,14 +36,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 
-### **4. Offline Payment Options**
+### 4. Offline Payment Options
 <div align="center">
 <img src="https://cdn.simply5.io/public_assets/1.3/payments.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
 Now subscribe to CloudLAN through WireTransfer & other offline payment methods. Contact support to process the order. Available only for annual plan subscriptions.
 
 
-### **5. Affiliate Program**
+### 5. Affiliate Program
 <div align="center">
 <img src="https://cdn.simply5.io/public_assets/1.3/affiliate.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
