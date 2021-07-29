@@ -9,13 +9,68 @@ slug: whats_new
 
 import useBaseUrl from '@docusaurus/useBaseUrl'; 
 
+## **v1.3 -  July 30, 2021 | Security  🔐**
+---
+### 1. New Solo plan 🎉
+   The solo plan offers the same excellent level of service and quality as our regular plans, just at a more affordable rate. 
+<div float="left" >
+    <div align="center">
+    <img src="https://cdn.simply5.io/public_assets/1.3/solo_plan.png" alt="#"  align="middle" height="auto" width="150" />      
+    </div>
+</div> 
+
+### 2. Stronger Encryption
+<div align="middle">
+<img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="130" align="middle" text-align="left"  />
+</div>
+ Advanced Password Encryption is activated, making your password virtually unbreakable. Do Password reset to protect your account with advanced stronger encryption.
+ 
+ 
+
+### 3. Two-Factor-Authentication
+
+ <div align="middle">
+    <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto" width="200" align="middle" />   
+</div>
+ This is an extra security layer to help secure your account. You can enable 2FA from "Security" tab in your CloudLAN account panel. Make sure you have Authy or Google Authenticator app installed on your phone to setup 2FA for your account.
+
+
+
+### 4. Offline Payment options
+<div align="center">
+<img src="https://cdn.simply5.io/public_assets/1.3/payments.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
+</div>
+Now subscribe to CloudLAN through WireTransfer & other offline payment methods. Contact support to process the order. Available only for annual plan subscriptions.
+
+
+### 5. Affiliate Program
+<div align="center">
+<img src="https://cdn.simply5.io/public_assets/1.3/affiliate.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
+</div>
+We are excited to introduce an affiliate program for CloudLAN. If you are a IT consultant & like CloudLAN service and think your customers will too, feel free to promote it. And if users sign up through your link, you’ll earn a recurring commission upto 25% each month. Click here to apply for Affiliate program 
+
+### 6. Integration Guides Launch
+<div align="center">
+<img src="https://cdn.simply5.io/public_assets/1.3/guides.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
+</div>
+Now it's super easy to integrate your business systems with CloudLAN. Ensure your security by whitelisting IPs from accessing resources. Email us if your business system is not listed here.
+
+### 7. Other Enhancements ⚙
+
+- **Transfer Account Ownership** - By changing the default email of the user account, ownership of company CloudLAN rooms can be trasnfered to new team member easily.
+- **Auto-Connect** - We have improved the background connection process to app recovers from fluctuations in internet connectivity.
+  
+
+
+---
+
 ## **v1.2 -  June 12, 2021**
 ---
 
 
 ### 1. Host adoption from desktop clients
 <div className = "iframe_container">
-    <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt_windows.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+    <video className="responsive-iframe" src={useBaseUrl("videos/how_to_add_host_and_adopt_windows.mp4")} title="Connecting to room" autoPlay={true} controls ></video>
 </div> <br />
 
 Now you can use CloudLAN desktop clients to connect non-personal devices using an integrated [Host-agent app](./hosts_intro.md). Super simple onboarding for Windows & Mac machines so all the members can securely access the device remotely over CloudLAN Device IP
@@ -31,16 +86,15 @@ Now you can use CloudLAN desktop clients to connect non-personal devices using a
 [Connect Raspberry Pi](../installation_guide/cloudlan_hosts/host_agent_raspbian.md) board to your CloudLAN room in 2 commands, Access your project from anywhere
 
 <div className = "iframe_container">
-    <video className="responsive-iframe" src={useBaseUrl("videos/howtoRPI.mp4")} title="Connecting to room" autoPlay="true" controls ></video>
+    <video className="responsive-iframe" src={useBaseUrl("videos/howtoRPI.mp4")} title="Connecting to room" autoPlay={true} controls ></video>
 </div>
 
 
 GIF demonstrates adopting a Raspberry Pi host to CloudLAN room
 
-### Now Save more with Yearly plans
-
+### 4. Now Save more with Yearly plans
 Check out the new plans & start saving more with annual subscription.
-### **3. Other Enhancements** ⚙ 
+### 5. Other Enhancements ⚙ 
 
 #### 1. OpenVPN client Support
 

@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    "Getting Started": ['getting_started/introduction', 'getting_started/whats_new', "getting_started/cloudlan_room", "getting_started/hosts", "getting_started/service_cast", "getting_started/bookmark", "getting_started/generic_client"],
+    "Getting Started": ['getting_started/introduction', 'getting_started/whats_new', "getting_started/cloudlan_room", "getting_started/hosts", "getting_started/service_cast", "getting_started/bookmark", "getting_started/generic_client", "getting_started/security_settings"],
 
     "Installation guide":
       [
@@ -15,7 +15,7 @@ module.exports = {
         },
       ],
 
-    "Referrel Programs": ["referrel_programs/referrel_program"],
-    "Help & Support": ["help_support/troubleshooting", "help_support/purchase_subscription", "help_support/quicktips", {"FAQ's":["help_support/support/product_queries"]}]
+    "Referral Programs": ["referral_programs/referral_program"],
+    "Help & Support": ["help_support/troubleshooting", "help_support/purchase_subscription", "help_support/quicktips", { "FAQ's": ["help_support/support/product_queries"] }]
   },
 };
