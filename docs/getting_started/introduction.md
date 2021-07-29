@@ -66,7 +66,7 @@ Download the app & try out CloudLAN now
   
 
 :::tip
-  Enter the referral code if you have one. To know more about referral benefits [check here](../referrel_programs/referrel_program.md)  
+  Enter the referral code if you have one. To know more about referral benefits [check here](../referral_programs/referral_program.md)  
 :::
 
 `5.` Now account is ready, if you have installed the app, use **launch application** to Launch & autologin
@@ -115,6 +115,6 @@ By clicking the room icon view all the room you are part of
 ---
 
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::

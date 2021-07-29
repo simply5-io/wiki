@@ -1,8 +1,8 @@
 ---
-id: generic_client
+id: user_generic_client
 title: Generic Client for User
 sidebar_label: Generic Client
-slug: generic_client
+slug: user_generic_client
 
 ---
 ---
@@ -46,6 +46,6 @@ CloudLAN provide various guides to walk you through the setup processes, otherwi
 
 ---
 :::info
-:information_desk_person: **Got a question not answered in this knowledge base? ** <br />
-Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
+ ** Got a question not answered in this knowledge base?** <br />
+ Contact us at [cloudlan@simply5.io](mailto:cloudlan@simply5.io) or "chat with support" from our website or inside the app
 :::
