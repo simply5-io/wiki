@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## **v1.3 -  July 30, 2021 | Security  🔐**
 ---
-### 1. New Solo plan 🎉
+### 1. New Solo Plan 🎉
    The solo plan offers the same excellent level of service and quality as our regular plans, just at a more affordable rate. 
 <div float="left" >
     <div align="center">
@@ -21,22 +21,27 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ### 2. Stronger Encryption
 <div align="middle">
-<img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="130" align="middle" text-align="left"  />
+<img src="https://cdn.simply5.io/public_assets/cl/2fa_2.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
- Advanced Password Encryption is activated, making your password virtually unbreakable. Do Password reset to protect your account with advanced stronger encryption.
+ Advanced Password Encryption is activated, making your password virtually unbreakable. Reset your password to protect your account with advanced stronger encryption.
  
  
 
 ### 3. Two-Factor-Authentication
 
- <div align="middle">
-    <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto" width="200" align="middle" />   
+
+ <div align="left">
+    <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto"  width="200" align="left" />  
 </div>
- This is an extra security layer to help secure your account. You can enable 2FA from "Security" tab in your CloudLAN account panel. Make sure you have Authy or Google Authenticator app installed on your phone to setup 2FA for your account.
+<div align="left">
+    <img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="125" align="left"   />
+</div> 
+
+ This is an extra security layer to help secure your account. You can enable 2FA from "Security" tab in your CloudLAN account panel. Make sure you have Authy or Google Authenticator app installed on your phone.
 
 
 
-### 4. Offline Payment options
+### 4. Offline Payment Options
 <div align="center">
 <img src="https://cdn.simply5.io/public_assets/1.3/payments.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
@@ -135,35 +140,35 @@ Simply5 CloudLAN Introducing new features and enhancements to make a powerful to
 **With our most recent updates, you can:**
 
 ----
-### 1. Now connect any device that supports generic OpenVPN Client with improved Host adding experience.*
+### 1. Now connect any device that supports generic OpenVPN Client with improved Host adding experience
 
 ![assets/images/download_ovp_file.gif](assets/images/download_ovp_file.gif)
 
 ---
-### 2. *Get dedicated IP to work faster & secure*
+### 2. Get dedicated IP to work faster & secure
 
 ![assets/images/Untitled.png](assets/images/Untitled.png)
 
 
 ---
 
-### 3. *New regions - London, Singapore & Los Angeles *
+### 3. New regions - London, Singapore & Los Angeles
 
 ![assets/images/London_region_feature.gif](assets/images/London_region_feature.gif)
 
 ---
-### 4. *Enable 'Auto Connect' to connect instantly on system bootup*
+### 4. Enable 'Auto Connect' to connect instantly on system bootup
 
 ![assets/images/auto_connect.gif](assets/images/auto_connect.gif)
 
 ---
 
-### 5. *Don't want to keep expired paid room anymore?* Delete it from your profile
+### 5. Don't want to keep expired paid room anymore?* Delete it from your profile
 
 ![assets/images/delete_room.gif](assets/images/delete_room.gif)
 
 ---
-### 6. *Easy access to TeamVPN IP from Rooms panel.*
+### 6. Easy access to TeamVPN IP from Rooms panel.
 
 ![assets/images/teamvpnip.gif](assets/images/teamvpnip.gif)
 
