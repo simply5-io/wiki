@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## **v1.3 -  July 30, 2021 | Security  🔐**
 ---
-### **1. New Solo plan 🎉**
+### **1. New Solo Plan 🎉**
    The solo plan offers the same excellent level of service and quality as our regular plans, just at a more affordable rate. 
 <div float="left" >
     <div align="center">
@@ -36,7 +36,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 
-### **4. Offline Payment options**
+### **4. Offline Payment Options**
 <div align="center">
 <img src="https://cdn.simply5.io/public_assets/1.3/payments.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
 </div>
