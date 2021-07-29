@@ -21,7 +21,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ### 2. Stronger Encryption
 <div align="middle">
-<img src="https://cdn.simply5.io/public_assets/cl/2fa_2.png" alt="#" height="auto" width="200" align="middle" text-align="left"  />
+<img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="150" align="middle" text-align="left"  />
 </div>
  Advanced Password Encryption is activated, making your password virtually unbreakable. Reset your password to protect your account with advanced stronger encryption.
  
@@ -30,12 +30,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ### 3. Two-Factor-Authentication
 
 
- <div align="left">
-    <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto"  width="200" align="left" />  
+ <div align="center">
+    <img src="https://cdn.simply5.io/public_assets/cl/two_factor_authentication_namy.png" alt="#" height="auto"  width="200" align="middle" />  
 </div>
-<div align="left">
-    <img src="https://cdn.simply5.io/public_assets/cl/2fa_enabled.png" alt="#" height="auto" width="125" align="left"   />
-</div> 
 
  This is an extra security layer to help secure your account. You can enable 2FA from "Security" tab in your CloudLAN account panel. Make sure you have Authy or Google Authenticator app installed on your phone.
 
@@ -147,7 +144,7 @@ Simply5 CloudLAN Introducing new features and enhancements to make a powerful to
 ---
 ### 2. Get dedicated IP to work faster & secure
 
-![assets/images/Untitled.png](assets/images/Untitled.png)
+![assets/images/Untitled.png](assets/images/vOffice_plan.png)
 
 
 ---
