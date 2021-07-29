@@ -36,7 +36,7 @@ Follow below points to help yourself keep unique and more complex passwords
 ## How to Enable 2-factor Authentication.
 
 
- 1. Login to your Simply5 Account from [accounts.simply5.io](accounts.simply5.io)
+ 1. Login to your Simply5 Account from [**accounts.simply5.io**](https://accounts.simply5.io)
  2. Go to ***Security*** section from your account sidebar
  3. Click on ***Enable*** button.
  4. You will see a QR code and other instructions on the page.
