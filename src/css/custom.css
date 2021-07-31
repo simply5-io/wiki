@@ -170,28 +170,29 @@ article iframe {
 }
 
 .admonition-note h5  {
-  color: #7f6416;
+  color: #03a84e;
 }
 
 .admonition-note .admonition-icon svg {
-  stroke: #f3e093;
-  fill: #7f6416;
+  stroke: #03a84e;
+  fill: #03a84e;
 }
+
 .admonition-info {
-  background-color: #ddf7ff;
-  border-color: #006a8a;
-  border-left: 8px solid #006a8a; 
-  color: #006a8a;  
+  background-color: var( --ifm-color-secondary-contrast-background );
+  border-color: #303846;
+  border-left: 6px solid #303846; 
+  color: var(--ifm-font-color-base);  
 }
 
 .admonition-info h5 {
-  color: #006a8a; 
+  color: #03a84e; 
 }
 .admonition-info :any-link {
-  color: #065eeb;
+  color: #03a84e;
 }
 
 .admonition-info .admonition-icon svg {
-  stroke: #ddf7ff;
-  fill: #006a8a;
+  stroke: #03a84e;
+  fill: #03a84e;
 }

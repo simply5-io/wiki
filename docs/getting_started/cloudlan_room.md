@@ -42,7 +42,7 @@ All your internet traffic is securely routed through your CloudLAN room. This is
 
 Enable Auto Connect to launch the app & connect to the room when your system bootsup 
 
-![/assets/images/room1 <>](./assets/images/auto_connect.gif)
+![auto_connect](./assets/images/auto_connect.png)
 
 ---
 :::info
