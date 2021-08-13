@@ -156,7 +156,7 @@ Simply5 CloudLAN Introducing new features and enhancements to make a powerful to
 ---
 ### 4. Enable 'Auto Connect' to connect instantly on system bootup
 
-![assets/images/auto_connect.gif](assets/images/auto_connect.gif)
+![auto_connect](assets/images/auto_connect.png)
 
 ---
 
