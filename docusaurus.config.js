@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
   tagline: "Democratizing Networking for SMB's",
-  url: 'https://wiki.simply5.io',
-  baseUrl: '/',
+  url: 'https://simply5.io',
+  baseUrl: '/wiki/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
