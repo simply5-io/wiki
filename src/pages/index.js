@@ -144,7 +144,7 @@ function Home() {
       <main>
         <div className="container">
           <div className="text--center">
-            <img className={styles.quickTitleImage} src={"./img/undraw_searching_p5ux.svg"} alt={"How can we help you?"} />
+            <img className={styles.quickTitleImage} src={"/wiki/img/undraw_searching_p5ux.svg"} alt={"How can we help you?"} />
           </div>
           <div>
             <h3><center>How can we help you?</center></h3>
