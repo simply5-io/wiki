@@ -1,14 +1,15 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
   tagline: "Democratizing Networking for SMB's",
-  url: 'https://wiki.simply5.io',
-  baseUrl: '/',
+  url: 'https://simply5.io',
+  baseUrl: '/wiki/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'Simply5 Labs', // Usually your GitHub org/user name.
   projectName: 'simply5-io/wiki', // Usually your repo name.
+  trailingSlash: true,
   themeConfig: {
     navbar: {
       title: 'CloudLAN',
