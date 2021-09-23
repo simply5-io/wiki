@@ -90,7 +90,7 @@ Reboot the machine to clear the background service
 - Select a host and click on ***Re-adopt*** host option.
 - A New Auth code for host re-adoption will be displayed 
 - Copy new auth code 
-- Follow Host adoption steps
+- Follow Host adoption steps for Raspbian
 - Enter new auth code when it's prompt for adoption code.
 - Once the Auth code is validated the client will be connected.
 
