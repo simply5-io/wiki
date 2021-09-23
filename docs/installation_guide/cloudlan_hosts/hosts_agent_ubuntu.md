@@ -77,6 +77,15 @@ wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./
 
 ![assets/images/Remove_Ubuntu_Server_.gif](assets/images/Remove_Ubuntu_Server_.gif)
 
+## How to Readopt Host
+
+- Select a host and click on ***Re-adopt*** host option.
+- A New Auth code for host re-adoption will be displayed 
+- Copy new auth code 
+- Follow the Ubuntu Host adoption steps
+- Enter new auth code when it's prompt for adoption code.
+- Once the Auth code is validated the client will be connected.
+- 
 ---
 
 :::info
