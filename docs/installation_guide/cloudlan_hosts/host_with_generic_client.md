@@ -43,7 +43,18 @@ Download & Copy the credentials before you close the windows, you will not be ab
 
 
 
----
+## How to Readopt Host
+
+Re-adoptions helps in cases where the host app got logged out or credentials are lost and you don't want the host IP to change.
+
+- Once the Host shows as offline 
+- Select a host and click on ***Re-adopt*** host option.
+- A New Credentials for host re-adoption will be displayed 
+- Use these in any OpenVPN client to connect to the room    
+
+
+<br />
+
 ---
 :::info
  ** Got a question not answered in this knowledge base?** <br />
