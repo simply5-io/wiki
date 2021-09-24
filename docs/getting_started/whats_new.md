@@ -9,6 +9,10 @@ slug: whats_new
 
 import useBaseUrl from '@docusaurus/useBaseUrl'; 
 
+This section has moved to Blog section of website, 
+#### Catch the latest updates at [Simply5 Blog](https://www.simply5.io/blog), select 'Whats new' filter
+
+
 ## **v1.3 -  July 30, 2021 | Security  🔐**
 ---
 ### 1. New Solo Plan 🎉
