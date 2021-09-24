@@ -45,11 +45,14 @@ CloudLAN app will automatically bootup one system reboot & connect to the room.
 
 ## How to Readopt Host
 
+Re-adoptions helps in cases where the host app got logged out and you don't want the host IP to change.
+
+- Once the Host shows as offline 
 - Select a host and click on ***Re-adopt*** host option.
 - A New Auth code for host re-adoption will be displayed 
 - Copy new auth code 
 - Enter new auth code in the host client app to adopt the host.
-- Once the Auth code is validated the client will be connected.
+- Once the Auth code is validated, the client will be connected.
 
 Below Quick GIF Demonstrates how to Re-adopt a host.
 
