@@ -9,6 +9,7 @@ module.exports = {
   favicon: 'img/favicon.png',
   organizationName: 'Simply5 Labs', // Usually your GitHub org/user name.
   projectName: 'simply5-io/wiki', // Usually your repo name.
+  trailingSlash: true,
   themeConfig: {
     navbar: {
       title: 'CloudLAN',

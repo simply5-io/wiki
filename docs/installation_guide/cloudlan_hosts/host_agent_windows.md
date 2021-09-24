@@ -43,6 +43,18 @@ CloudLAN app will automatically bootup one system reboot & connect to the room.
 
 
 
+## How to Readopt Host
+
+- Select a host and click on ***Re-adopt*** host option.
+- A New Auth code for host re-adoption will be displayed 
+- Copy new auth code 
+- Enter new auth code in the host client app to adopt the host.
+- Once the Auth code is validated the client will be connected.
+
+Below Quick GIF Demonstrates how to Re-adopt a host.
+
+![how_readopt_host.gif](assets/images/how_readopt_host.gif)
+
 ---
 
 :::info

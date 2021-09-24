@@ -28,7 +28,7 @@ The below GIF demonstrates how to adopt ***CentOS machine***
 - Select CentOS from OS dropdown & copy the installation command 
 
 ```bash
-sudo yum -y install wget; wget https://cdn.simply5.io/cloudlan/apps/clan-server ; chmod +x ./clan-server; sudo ./clan-server
+sudo yum -y install wget psmisc; wget https://cdn.simply5.io/cloudlan/apps/clan-server; chmod +x ./clan-server; sudo ./clan-server
 ```
 
 - Paste the command into machine terminal and execute it to install Host agent
@@ -81,6 +81,16 @@ Reboot the machine to clear the background service
 
 ![assets/images/Remove_CentOS_server.gif](assets/images/Remove_CentOS_server.gif)
 
+
+## How to Readopt Host
+
+- Select a host and click on ***Re-adopt*** host option.
+- A New Auth code for host re-adoption will be displayed 
+- Copy new auth code 
+- Follow Host adoption steps for CentOS
+- Enter new auth code when it's prompt for adoption code.
+- Once the Auth code is validated the client will be connected.
+- 
 ---
 :::info
  ** Got a question not answered in this knowledge base?** <br />
