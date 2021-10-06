@@ -42,10 +42,6 @@ Only 1 device configuration can be generated per room. Devices connecting using 
 :::
 
 CloudLAN provide various guides to walk you through the setup processes, otherwise you can also follow official guide provided by the OpenVPN client you are using.
-### Download OpenVPN Client
-
-You can download Open VPN client app and install on your machine to get conncted to your cloudlan room using generic client config file. 
-Visit to <a href="https://openvpn.net/community-downloads/" target="_blank">OpenVPN Downloads</a> page to download the latest version of OpenVPN. 
 
 
 ---
