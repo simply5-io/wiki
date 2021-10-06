@@ -179,17 +179,17 @@ article iframe {
 }
 
 .admonition-info {
-  background-color: var( --ifm-color-secondary-contrast-background );
+  background-color: #dadee0;
   border-color: #303846;
   border-left: 6px solid #303846; 
-  color: var(--ifm-font-color-base);  
+  color: #303846 ;  
 }
 
 .admonition-info h5 {
   color: #03a84e; 
 }
 .admonition-info :any-link {
-  color: #03a84e;
+  color: #9c39ec;
 }
 
 .admonition-info .admonition-icon svg {
