@@ -79,13 +79,18 @@ wget https://cdn.simply5.io/cloudlan/apps/uninstall-clan-server.sh ; chmod +x ./
 
 ## How to Readopt Host
 
+
+Re-adoptions helps in cases where the host app got logged out and you don't want the host IP to change.
+
+- Once the Host shows as offline 
 - Select a host and click on ***Re-adopt*** host option.
 - A New Auth code for host re-adoption will be displayed 
 - Copy new auth code 
-- Follow the Ubuntu Host adoption steps
+- Run the uninstall command to remove old host app
+- Follow Host adoption steps for CentOS
 - Enter new auth code when it's prompt for adoption code.
 - Once the Auth code is validated the client will be connected.
-- 
+  
 ---
 
 :::info
