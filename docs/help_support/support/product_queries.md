@@ -54,7 +54,7 @@ Currently we are limiting 1 concurrent room connection per device. Contact suppo
 
 ### What is unlimited data?
 
-Based on the licenses, you would have received unlimited data on TeamVPN ON & OFF, & its truly Unlimited in sense we don't restrict but we do keep record of data usage. We have set Fair usage limits at 1TB/month which should be more than enough for normal usage, if you hit the limit, we shall review your account & increase the limits. Usage is bound by the [terms of use policy](https://www.simply5.io/termsofuse)
+Based on the licenses, you would have received unlimited data on TeamVPN ON & OFF, & its truly Unlimited in sense we don't restrict but we do keep record of data usage. We have set Fair usage limits at 1TB/month which should be more than enough for normal usage, if you hit the limit, we shall review your account & increase the limits. Usage is bound by the [terms of use policy](https://www.simply5.io/terms-of-use)
 
 ### How do I check data usage?
 
