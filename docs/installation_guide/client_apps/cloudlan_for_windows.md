@@ -7,7 +7,7 @@ slug: cloudlan_for_windows
 ---
 ---
 ## Installing CloudLAN App on Windows
-- To get the desktop app, go to [www.simply5.io/download](http://www.simply5.io/download) and click `Download for Windows`
+- To get the desktop app, go to [www.simply5.io/download](https://www.simply5.io/download) and click `Download for Windows`
 - Run the downloaded `.exe file`
 - It will installed the application & open it
 - Accept all Windows prompts for installing necessary services & drivers

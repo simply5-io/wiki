@@ -117,7 +117,7 @@ Following the feedback users, we have made some visual improvement & added help 
 
 #### 4. Documentation
 
-We have rewritten the [documentation](http://wiki.simply5.io) to make it friendly for non-technical users. Drop-in your suggestions @ cloudlan@simply5.io
+We have rewritten the [documentation](https://wiki.simply5.io) to make it friendly for non-technical users. Drop-in your suggestions @ cloudlan@simply5.io
 
 
 
