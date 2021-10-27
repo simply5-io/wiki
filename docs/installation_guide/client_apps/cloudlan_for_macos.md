@@ -8,7 +8,7 @@ slug: cloudlan_for_MacOS
 ## Installing CloudLAN App on MacOS
 You can use CloudLAN on your Mac by installing Desktop client app.
 
-- To get the desktop app, go to [www.simply5.io/download](http://www.simply5.io/download) and click `Download for MacOS`
+- To get the desktop app, go to [www.simply5.io/download](https://www.simply5.io/download) and click `Download for MacOS`
 - Open Finder and go to Downloads
 - Open the .dmg file and drag CloudLAN into your Applications folder
 - Open CloudLAN app & Login using your email
