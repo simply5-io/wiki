@@ -33,7 +33,7 @@ We use Stripe to process our payments, You can use all types of credit cards to 
 
  ![Bank 2FA issue](assets/otp.png)
 
-In this case, you will need to first [**Add a card through the Billing section**](http://y5.ai/usercards) on your account profile page. <br />
+In this case, you will need to first [**Add a card through the Billing section**](https://y5.ai/usercards) on your account profile page. <br />
 Once added, you can subscribe to CloudLAN room from the app using the added card.
 
 ---

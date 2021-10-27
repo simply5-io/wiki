@@ -27,7 +27,7 @@ This feature is useful for platforms (OS) which are not yet supported by CloudLA
 </div>
 
 ### Download your device configuration
-- Visit your profile section at [**accounts.simply5.io**](http://accounts.simply5.io/) 
+- Visit your profile section at [**accounts.simply5.io**](https://accounts.simply5.io/) 
 - Select **Generic Client** in the menu
 - Select the room 
 - Select the OS platform (for Android & iOS select Linux)
