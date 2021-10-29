@@ -4,21 +4,19 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
- * 
-
-.heroBanner {
-  padding: 0.5rem 0; 
+* .heroBanner {
+  padding: 0.5rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
   background-color: var(--ifm-color-content-dark);
   text-shadow: var(--ifm-color-primary-lighter);
-  color: var(--ifm-color-content-light);  
+  color: var(--ifm-color-content-light);
 }
 
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 1rem;     
+    padding: 1rem;
   }
 }
 
@@ -35,10 +33,10 @@
   width: 100%;
 }
 .quickLinkfeatures {
-  display: flex;   
+  display: flex;
   align-items: center;
   justify-content: space-around;
-  transition: transform .5s;
+  transition: transform 0.5s;
   padding: 0.5rem 0;
   width: 100%;
 }
@@ -46,7 +44,22 @@
 .quickLinkfeatures:hover {
   -ms-transform: scale(1.1); /* IE 9 */
   -webkit-transform: scale(1.1); /* Safari 3-8 */
-  transform: scale(1.1); 
+  transform: scale(1.1);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
+}
+.homefeatures {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  transition: transform 0.5s;
+  padding: 0.8rem 0;
+  width: 100%;
+}
+
+.homefeatures:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
 }
 
@@ -55,7 +68,7 @@
   width: 120px;
 }
 
-.quickLinkImage {  
+.quickLinkImage {
   height: 100px;
   width: 100px;
 }
@@ -64,4 +77,3 @@
   height: 140px;
   width: 140px;
 }
-

@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Simply5 CloudLAN',
+  title: 'Simply5 Labs',
   tagline: "Democratizing Networking for SMB's",
   url: 'https://simply5.io',
   baseUrl: '/wiki/',
@@ -11,8 +11,9 @@ module.exports = {
   projectName: 'simply5-io/wiki', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
-      title: 'CloudLAN',
+      title: 'Docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -25,13 +26,20 @@ module.exports = {
           position: 'right',
         },
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Documentation',
+          to: 'docs/cloudlan/getting_started/introduction/',
+          activeBasePath: 'docs/cloudlan',
+          label: 'CloudLAN',
+          position: 'right',
+        },
+        {
+          to: 'docs/node/intro/',
+          activeBasePath: 'docs/node',
+          label: 'Node',
           position: 'right',
         },
         {
           to: 'docs/tutorials/tutorial',
+          activeBasePath: 'docs/tutorials',
           label: 'Tutorials',
           position: 'right',
         },
@@ -79,6 +87,7 @@ module.exports = {
           editUrl:
             'https://github.com/simply5-io/wiki/edit/master/',
         },
+
         blog: false,
         // {
         //   showReadingTime: true,

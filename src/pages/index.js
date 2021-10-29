@@ -44,12 +44,15 @@ const features1 = [
   //     </>
   //   ),
   // },
+  {
+
+  }
 
 ];
 function Feature1({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--4', styles.feature)}>
+    <div className={clsx('col col--2', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
@@ -66,43 +69,22 @@ function Feature1({ imageUrl, title, description }) {
 const features2 = [
 
   {
-    title: "What's New?",
-    imageUrl: 'img/undraw_pending_approval_xuu9.svg',
-    href: "docs/getting_started/whats_new",
+    title: "CloudLAN",
+    imageUrl: 'img/cloudlan_logo.svg',
+    href: "/cloudlan_home",
+    description: "Remote-enable in 10 minutes"
   }, {
-    title: "FAQ's",
-    imageUrl: 'img/undraw_Faq_re_31cw.svg',
-    href: "docs/help_support/support/product_queries",
-  },
-  {
-    title: "Troubleshooting",
-    imageUrl: 'img/undraw_bug_fixing_oc7a.svg',
-    href: "docs/help_support/troubleshooting",
-  },
-  {
-    title: "CloudLAN Free Room",
-    imageUrl: 'img/undraw_features_overview_jg7a.svg',
-    href: "docs/getting_started/setup_cloudlan_room#cloudlan-free-room",
-  },
-  {
-    title: "Invite & Join Room",
-    imageUrl: 'img/undraw_join_of2w.svg',
-    href: "docs/#invite--join-room",
-  },
-
-  {
-    title: 'Service Casting',
-    imageUrl: 'img/undraw_real-time_sync_o57k.svg',
-    href: "docs/getting_started/service_cast",
-  },
-
-
+    title: "Node",
+    imageUrl: 'img/node_logo.png',
+    href: "docs/node/intro",
+    description: "Enable your business Free WiFi in 10 minutes"
+  }
 ]
 function Feature2({ imageUrl, title, description, href }) {
   const imgUrl = useBaseUrl(imageUrl);
   const linkUrl = useBaseUrl(href);
   return (
-    <div className={clsx('col col--2', styles.quickLinkfeatures)} >
+    <div className={clsx('col col-centered', styles.homefeatures)} text-align="center" width="30%" >
       <a href={linkUrl}>
         <div className={clsx(styles.feature)}>
           {imgUrl && (
@@ -128,50 +110,34 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
           <div className={styles.buttons}>
-            <Link
+            <div>
+              <p p="500px"></p>
+              <hr></hr>
+            </div>
+            {/* <Link
               className={clsx(
                 'button button--outline button--primary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('docs/cloudlan/')}>
               Get Started
-            </Link>
+            </Link> */}
           </div>
         </div>
       </header>
       <main>
-        <div className="container">
-          <div className="text--center">
-            <img className={styles.quickTitleImage} src={"/wiki/img/undraw_searching_p5ux.svg"} alt={"How can we help you?"} />
-          </div>
-          <div>
-            <h3><center>How can we help you?</center></h3>
-            <p><center>We are always here to help whenever you have questions </center> </p>
-          </div>
-          <hr></hr>
-        </div>
         {features2 && features2.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className="row">
-                {features2.map((props, idx) => (
-                  <Feature2 key={idx} {...props} />
-                ))}
-              </div>
+          <section className={styles.features} >
+            <div className="container" >
               <hr></hr>
-            </div>
-          </section>
-        )}
-        {features1 && features1.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className="row">
-                {features1.map((props, idx) => (
-                  <Feature1 key={idx} {...props} />
-                ))}
-              </div>
+                <div className="row">
+                  {features2.map((props, idx) => (
+                    <Feature2 key={idx} {...props} />
+                  ))}
+                </div>
+                <hr></hr>
             </div>
           </section>
         )}
