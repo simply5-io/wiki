@@ -50,17 +50,9 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Simply5 Labs.`,
     },
     colorMode: {
-      switchConfig: {
-        darkIcon: '⚪',
-        darkIconStyle: {
-          marginLeft: '2px',
-        },
-        lightIcon: '⚫',
-        lightIconStyle: {
-          marginLeft: '1px',
-        }
-      }
-
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
     },
   },
   scripts: [
