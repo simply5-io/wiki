@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
   tagline: "Democratizing Networking for SMB's",
-  url: 'https://simply5.io',
+  url: 'https://owifi.in',
   baseUrl: '/wiki/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
