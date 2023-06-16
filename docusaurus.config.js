@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Simply5 CloudLAN',
   tagline: "Democratizing Networking for SMB's",
-  url: 'https://owifi.in',
+  url: 'https://simply5.io',
   baseUrl: '/wiki/',
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
@@ -16,48 +16,48 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
-        srcDark: 'img/logo-dark.svg',
+        srcDark: 'img/logo-dark.svg'
       },
       items: [
         {
           href: 'https://www.simply5.io/download',
           label: 'Download',
-          position: 'right',
+          position: 'right'
         },
         {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Documentation',
-          position: 'right',
+          position: 'right'
         },
         {
           to: 'docs/tutorials/tutorial',
           label: 'Tutorials',
-          position: 'right',
-        },
+          position: 'right'
+        }
         // { search: true },
         //TODO:Update Blog integration
         // { to: 'blog', label: 'Blog', position: 'right' },
-      ],
+      ]
     },
     footer: {
       style: 'dark',
       logo: {
         alt: 'Simply5',
         src: 'img/logo-dark.svg',
-        href: 'https://simply5.io',
+        href: 'https://simply5.io'
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Simply5 Labs.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Simply5 Labs.`
     },
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
-      respectPrefersColorScheme: false,
-    },
+      respectPrefersColorScheme: false
+    }
   },
   scripts: [
     {
-      src: "https://embed.tawk.to/5f327569f87ad20c6d7cda98/default",
+      src: 'https://embed.tawk.to/5f327569f87ad20c6d7cda98/default',
       async: true
     }
   ],
@@ -68,8 +68,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/simply5-io/wiki/edit/master/',
+          editUrl: 'https://github.com/simply5-io/wiki/edit/master/'
         },
         blog: false,
         // {
@@ -79,9 +78,9 @@ module.exports = {
         //     'https://github.com/simply5-io/wiki/master/website/blog/',
         // },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+          customCss: require.resolve('./src/css/custom.css')
+        }
+      }
+    ]
+  ]
 };
